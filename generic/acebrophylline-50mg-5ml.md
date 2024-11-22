@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Acebrophylline 50mg/5ml
 ---
 

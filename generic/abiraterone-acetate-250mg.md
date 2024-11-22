@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Abiraterone Acetate 250mg
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Acalabrutinib 100mg
 ---
 

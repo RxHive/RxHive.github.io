@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: ANTI-PSORIATIC
 ---
 

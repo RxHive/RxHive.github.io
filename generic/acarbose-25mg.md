@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Acarbose 25mg
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Acebrophylline 100mg  + Montelukast 10mg
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Abemaciclib 100mg
 ---
 

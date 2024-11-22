@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Abacavir 600mg  + Lamivudine 300mg
 ---
 
