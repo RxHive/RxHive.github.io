@@ -41,10 +41,8 @@ function sanitizeFilename(name) {
         .toLowerCase();                 // Convert to lowercase
 }
 
-
-
 // Generate content and write to a .md file
-async function generateContentForGeneric(genericName) {
+async function generateContentForGeneric(genericName, retries = 3) {
     const prompt = `
 Provide details about the generic ${genericName} in the following format:
 
@@ -61,27 +59,28 @@ FAQs:
         ],
     };
 
-    try {
-        const streamingResp = await generativeModel.generateContentStream(req);
-        let generatedContent = '';
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            const streamingResp = await generativeModel.generateContentStream(req);
+            let generatedContent = '';
 
-        // Process the streaming response
-        for await (const item of streamingResp.stream) {
-            if (item && item.candidates && item.candidates[0].content.parts) {
-                generatedContent += item.candidates[0].content.parts.map(part => part.text).join('');
+            // Process the streaming response
+            for await (const item of streamingResp.stream) {
+                if (item && item.candidates && item.candidates[0].content.parts) {
+                    generatedContent += item.candidates[0].content.parts.map(part => part.text).join('');
+                }
             }
-        }
 
-        // Check if content was generated
-        if (!generatedContent.trim()) {
-            throw new Error(`No content generated for ${genericName}`);
-        }
+            // Check if content was generated
+            if (!generatedContent.trim()) {
+                throw new Error(`No content generated for ${genericName}`);
+            }
 
-        // Add disclaimer
-        generatedContent += `\n\n**Note:** This information is AI-generated or crowd-sourced and may not be accurate. Please consult a medical professional for verified advice.`;
+            // Add disclaimer
+            generatedContent += `\n\n**Note:** This information is AI-generated or crowd-sourced and may not be accurate. Please consult a medical professional for verified advice.`;
 
-        // Create the YAML front matter and header
-        const yamlFrontMatter = `---
+            // Create the YAML front matter and header
+            const yamlFrontMatter = `---
 layout: minimal
 nav_exclude: true
 title: ${genericName}
@@ -91,21 +90,32 @@ title: ${genericName}
 
 `;
 
-        // Combine YAML, header, and generated content
-        const fileContent = yamlFrontMatter + generatedContent;
+            // Combine YAML, header, and generated content
+            const fileContent = yamlFrontMatter + generatedContent;
 
-        // Write to file
-        const filename = `${sanitizeFilename(genericName)}.md`;
-        fs.writeFileSync(filename, fileContent, 'utf8');
-        console.log(`Content successfully written to ${filename}`);
-    } catch (error) {
-        console.error(`Error generating content for '${genericName}':`, error.message);
+            // Write to file
+            const filename = `${sanitizeFilename(genericName)}.md`;
+            fs.writeFileSync(filename, fileContent, 'utf8');
+            console.log(`Content successfully written to ${filename}`);
+            return; // Exit the function on success
+        } catch (error) {
+            console.error(`Attempt ${attempt} failed for '${genericName}':`, error.message);
+
+            // If all attempts fail, throw the error
+            if (attempt === retries) {
+                console.error(`All attempts failed for '${genericName}'.`);
+                return;
+            }
+
+            // Wait before retrying
+            await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+        }
     }
 }
 
 // Process the file and generate markdown files
 async function processGenericsFile() {
-    const filePath = 'generics.txt'; 
+    const filePath = 'generics.txt';
     try {
         const data = fs.readFileSync(filePath, 'utf8');
         const genericNames = data.split('\n').map(line => line.trim()).filter(line => line);
