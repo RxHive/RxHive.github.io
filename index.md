@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: minimal
 ---
 
 # RxHive: Open-Source Collaborative Medicine Database
