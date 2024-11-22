@@ -10,11 +10,19 @@ collections:
   generic:
     output: true
     permalink: /generic/:path/
+  composition:
+    output: true
+    permalink: /composition/:path/
 
 just_the_docs:
   collections:
     generic:
       name: Generic
+      nav_exclude: true    # Exclude the collection from main navigation
+      nav_fold: true       # Fold collection pages in navigation (if included later)
+      output: true
+    composition:
+      name: Composition
       nav_exclude: true    # Exclude the collection from main navigation
       nav_fold: true       # Fold collection pages in navigation (if included later)
       output: true
@@ -38,6 +46,7 @@ defaults:
 # Include generic folder in processing
 include:
   - generic
+  - composition
   - robots.txt
   - google46cc0abefa86d150.html
 
