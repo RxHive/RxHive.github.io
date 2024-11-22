@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mg  + Paracetamol 250mg  + Trypsin Chymotrypsin 50000IU
+nav_exclude: true
+title: Aceclofenac 100mg + Paracetamol 250mg + Trypsin Chymotrypsin 50000IU
 ---
 
-# Aceclofenac 100mg  + Paracetamol 250mg  + Trypsin Chymotrypsin 50000IU
+# Aceclofenac 100mg + Paracetamol 250mg + Trypsin Chymotrypsin 50000IU
 
 It's crucial to understand that I am an AI and cannot provide medical advice.  The information below is for general knowledge and informational purposes only, and does not constitute medical advice.  **Always consult a doctor or pharmacist before taking any medication, including this combination.**  Self-treating can be dangerous.
 
