@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac  + Paracetamol  + Chlorzoxazone
+title: Aceclofenac + Paracetamol + Chlorzoxazone
 ---
 
-# Aceclofenac  + Paracetamol  + Chlorzoxazone
+# Aceclofenac + Paracetamol + Chlorzoxazone
 
 **Generic Name:** Aceclofenac + Paracetamol + Chlorzoxazone
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Rabeprazole 20mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Rabeprazole 20mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Rabeprazole 20mg
+# Aceclofenac 100mg + Paracetamol 325mg + Rabeprazole 20mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 325mg + Rabeprazole 20mg
 

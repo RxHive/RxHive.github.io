@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mcg  + Paracetamol 325mg  + Serratiopeptidase 15mg
+title: Aceclofenac 100mcg + Paracetamol 325mg + Serratiopeptidase 15mg
 ---
 
-# Aceclofenac 100mcg  + Paracetamol 325mg  + Serratiopeptidase 15mg
+# Aceclofenac 100mcg + Paracetamol 325mg + Serratiopeptidase 15mg
 
 It's important to note that a 100mcg dose of Aceclofenac is unusually low.  Aceclofenac is typically prescribed at doses of 100mg, not mcg (micrograms).  A 100mcg dose is likely a typographical error.  The information below assumes the Aceclofenac dose is 100mg, not 100mcg.  **Always consult a doctor or pharmacist before taking any medication.**  Misinterpreting dosages can be extremely dangerous.
 

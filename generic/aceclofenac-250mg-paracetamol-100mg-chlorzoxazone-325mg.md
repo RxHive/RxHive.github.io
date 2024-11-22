@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 250mg  + Paracetamol 100mg  + Chlorzoxazone 325mg
+title: Aceclofenac 250mg + Paracetamol 100mg + Chlorzoxazone 325mg
 ---
 
-# Aceclofenac 250mg  + Paracetamol 100mg  + Chlorzoxazone 325mg
+# Aceclofenac 250mg + Paracetamol 100mg + Chlorzoxazone 325mg
 
 It's crucial to understand that a combination of Aceclofenac 250mg + Paracetamol 100mg + Chlorzoxazone 325mg is **not a standard or commonly prescribed combination**.  The dosages are also unusual, especially the low dose of Paracetamol.  This combination is likely not available commercially and should only be considered if prescribed by a doctor who has carefully assessed your individual needs.  **Do not take this combination based on this information alone.**
 

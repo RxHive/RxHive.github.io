@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac  + Paracetamol  + Serratiopeptidase  + Tizanidine
+title: Aceclofenac + Paracetamol + Serratiopeptidase + Tizanidine
 ---
 
-# Aceclofenac  + Paracetamol  + Serratiopeptidase  + Tizanidine
+# Aceclofenac + Paracetamol + Serratiopeptidase + Tizanidine
 
 **Generic Name:** Aceclofenac + Paracetamol + Serratiopeptidase + Tizanidine
 

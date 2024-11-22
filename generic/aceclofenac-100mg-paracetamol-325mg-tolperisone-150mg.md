@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Tolperisone 150mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Tolperisone 150mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Tolperisone 150mg
+# Aceclofenac 100mg + Paracetamol 325mg + Tolperisone 150mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 325mg + Tolperisone 150mg
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Chlorzoxazone 250mg  + Paracetamol 325mg
+title: Aceclofenac 100mg + Chlorzoxazone 250mg + Paracetamol 325mg
 ---
 
-# Aceclofenac 100mg  + Chlorzoxazone 250mg  + Paracetamol 325mg
+# Aceclofenac 100mg + Chlorzoxazone 250mg + Paracetamol 325mg
 
 **Generic Name:** Aceclofenac + Chlorzoxazone + Paracetamol
 

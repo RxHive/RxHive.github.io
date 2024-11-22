@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100gm  + Paracetamol 325gm  + Chlorzoxazone 250gm
+title: Aceclofenac 100gm + Paracetamol 325gm + Chlorzoxazone 250gm
 ---
 
-# Aceclofenac 100gm  + Paracetamol 325gm  + Chlorzoxazone 250gm
+# Aceclofenac 100gm + Paracetamol 325gm + Chlorzoxazone 250gm
 
 It's crucial to understand that providing detailed medical information, especially regarding a combination drug like Aceclofenac 100gm + Paracetamol 325gm + Chlorzoxazone 250gm, is beyond the scope of this AI and could be dangerous.  The quantities listed (100gm, 325gm, 250gm) suggest a bulk amount, not typical for a single prescription.  This is likely a compounding formulation or intended for manufacturing, not direct patient use.  **Do not attempt to use this combination without explicit direction from a medical professional.**
 

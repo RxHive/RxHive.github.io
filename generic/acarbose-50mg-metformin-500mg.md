@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acarbose 50mg  + Metformin 500mg
+title: Acarbose 50mg + Metformin 500mg
 ---
 
-# Acarbose 50mg  + Metformin 500mg
+# Acarbose 50mg + Metformin 500mg
 
 **Generic Name:** Acarbose 50mg + Metformin 500mg  (Note: This is a combination drug; there isn't one single generic name encompassing both components.  The generic names would be acarbose and metformin hydrochloride individually.)
 

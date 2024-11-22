@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 200mg  + Paracetamol 325mg  + Serratiopeptidase 15mg
+title: Aceclofenac 200mg + Paracetamol 325mg + Serratiopeptidase 15mg
 ---
 
-# Aceclofenac 200mg  + Paracetamol 325mg  + Serratiopeptidase 15mg
+# Aceclofenac 200mg + Paracetamol 325mg + Serratiopeptidase 15mg
 
 **Generic Name:** Aceclofenac 200mg + Paracetamol 325mg + Serratiopeptidase 15mg
 

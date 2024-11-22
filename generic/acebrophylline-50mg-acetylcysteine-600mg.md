@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 50mg  + Acetylcysteine 600mg
+title: Acebrophylline 50mg + Acetylcysteine 600mg
 ---
 
-# Acebrophylline 50mg  + Acetylcysteine 600mg
+# Acebrophylline 50mg + Acetylcysteine 600mg
 
 **Generic Name:** Acebrophylline + Acetylcysteine
 

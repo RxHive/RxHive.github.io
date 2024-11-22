@@ -111,7 +111,7 @@ async function processGenericsFile() {
         const genericNames = data.split('\n').map(line => line.trim()).filter(line => line);
 
         for (const genericName of genericNames) {
-            const sanitizedName = genericName.replace(/[()"']/g, '').replace(/,/g, '  +');
+            const sanitizedName = genericName.replace(/[()"']/g, '').replace(/,/g, ' +');
             console.log(`Processing: '${sanitizedName}'`);
             await generateContentForGeneric(sanitizedName);
             await new Promise(resolve => setTimeout(resolve, 2000)); // Add delay between requests

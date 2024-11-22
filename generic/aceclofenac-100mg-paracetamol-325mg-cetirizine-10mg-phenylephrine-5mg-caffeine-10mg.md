@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 10mg  + Phenylephrine 5mg  + Caffeine 10mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 10mg + Phenylephrine 5mg + Caffeine 10mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 10mg  + Phenylephrine 5mg  + Caffeine 10mg
+# Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 10mg + Phenylephrine 5mg + Caffeine 10mg
 
 It's crucial to understand that I am an AI and cannot provide medical advice.  The information below is for general knowledge only and should not be considered a substitute for consultation with a doctor or pharmacist.  **Always follow the instructions provided by your healthcare professional.**  This combination of drugs is not standard and may not be available in all regions.  The presence of these drugs together suggests a formulation aimed at relieving cold and flu symptoms, but the specific efficacy and safety depend on the individual and their health status.
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Beta-Cyclodextrin 100mg
+title: Aceclofenac 100mg + Beta-Cyclodextrin 100mg
 ---
 
-# Aceclofenac 100mg  + Beta-Cyclodextrin 100mg
+# Aceclofenac 100mg + Beta-Cyclodextrin 100mg
 
 **Generic Name:** Aceclofenac 100mg + Beta-Cyclodextrin 100mg
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 100mg  + Montelukast 10mg
+title: Acebrophylline 100mg + Montelukast 10mg
 ---
 
-# Acebrophylline 100mg  + Montelukast 10mg
+# Acebrophylline 100mg + Montelukast 10mg
 
 **Generic Name:** Acebrophylline 100mg + Montelukast 10mg
 

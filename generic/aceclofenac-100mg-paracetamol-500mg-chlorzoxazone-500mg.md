@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 500mg  + Chlorzoxazone 500mg
+title: Aceclofenac 100mg + Paracetamol 500mg + Chlorzoxazone 500mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 500mg  + Chlorzoxazone 500mg
+# Aceclofenac 100mg + Paracetamol 500mg + Chlorzoxazone 500mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 500mg + Chlorzoxazone 500mg  (This is a combination drug, so there isn't one single generic name beyond listing the individual components.)
 

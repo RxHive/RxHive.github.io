@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 50mg  + Desloratadine 2.5mg  + Montelukast 4mg
+title: Acebrophylline 50mg + Desloratadine 2.5mg + Montelukast 4mg
 ---
 
-# Acebrophylline 50mg  + Desloratadine 2.5mg  + Montelukast 4mg
+# Acebrophylline 50mg + Desloratadine 2.5mg + Montelukast 4mg
 
 It's crucial to understand that I cannot provide medical advice.  The information below is for informational purposes only and should not be substituted for advice from a qualified healthcare professional.  **Always consult your doctor or pharmacist before starting or changing any medication.**  The combination of Acebrophylline, Desloratadine, and Montelukast is not a standard, pre-made formulation.  While each drug is commonly used for allergy and asthma symptoms, their combination requires a doctor's prescription and careful monitoring.
 

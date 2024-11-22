@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 5mg  + Phenylephrine 10mg  + Caffeine 25mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 5mg + Phenylephrine 10mg + Caffeine 25mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 5mg  + Phenylephrine 10mg  + Caffeine 25mg
+# Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 5mg + Phenylephrine 10mg + Caffeine 25mg
 
 It's crucial to understand that I am an AI and cannot provide medical advice. The information below is for general knowledge and informational purposes only, and should not be considered a substitute for professional medical advice from a doctor or other qualified healthcare provider.  **Always consult your doctor or pharmacist before starting any new medication, including this combination.**  This combination of drugs is not a standard, pre-approved formulation and the specific interactions and effects might vary depending on the manufacturer and specific formulation.
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.50% w/w  + Linseed Oil 3.0% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.025% w/w
+title: Aceclofenac 1.50% w/w + Linseed Oil 3.0% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.025% w/w
 ---
 
-# Aceclofenac 1.50% w/w  + Linseed Oil 3.0% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.025% w/w
+# Aceclofenac 1.50% w/w + Linseed Oil 3.0% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.025% w/w
 
 This combination of ingredients is a topical analgesic, meaning it's applied to the skin to relieve pain.  There is no single generic name for this specific combination as it's a proprietary blend.  However, we can describe the individual components and their combined effect.
 

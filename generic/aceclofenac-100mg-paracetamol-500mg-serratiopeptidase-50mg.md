@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 500mg  + Serratiopeptidase 50mg
+title: Aceclofenac 100mg + Paracetamol 500mg + Serratiopeptidase 50mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 500mg  + Serratiopeptidase 50mg
+# Aceclofenac 100mg + Paracetamol 500mg + Serratiopeptidase 50mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 500mg + Serratiopeptidase 50mg
 

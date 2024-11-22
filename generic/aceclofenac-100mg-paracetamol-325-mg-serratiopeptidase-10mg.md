@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325 mg  + Serratiopeptidase 10mg
+title: Aceclofenac 100mg + Paracetamol 325 mg + Serratiopeptidase 10mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325 mg  + Serratiopeptidase 10mg
+# Aceclofenac 100mg + Paracetamol 325 mg + Serratiopeptidase 10mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 325mg + Serratiopeptidase 10mg
 

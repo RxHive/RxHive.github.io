@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.5% w/w  + Linseed Oil 3% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.05% w/w
+title: Aceclofenac 1.5% w/w + Linseed Oil 3% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.05% w/w
 ---
 
-# Aceclofenac 1.5% w/w  + Linseed Oil 3% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.05% w/w
+# Aceclofenac 1.5% w/w + Linseed Oil 3% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.05% w/w
 
 It's crucial to understand that I am an AI and cannot provide medical advice.  The information below is for general knowledge and informational purposes only, and should not be considered a substitute for professional medical advice.  **Always consult a doctor or pharmacist before using any medication, especially one containing multiple active ingredients.**  This combination is not a standard, pre-approved formulation and its efficacy and safety haven't been rigorously studied.
 

@@ -1,9 +1,9 @@
 ---
 layout: minimal
-title: Aceclofenac 50mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 50000AU
+title: Aceclofenac 50mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000AU
 ---
 
-# Aceclofenac 50mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 50000AU
+# Aceclofenac 50mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000AU
 
 **Generic Name:** Aceclofenac 50mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000AU
 

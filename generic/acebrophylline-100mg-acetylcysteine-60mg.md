@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 100mg  + Acetylcysteine 60mg
+title: Acebrophylline 100mg + Acetylcysteine 60mg
 ---
 
-# Acebrophylline 100mg  + Acetylcysteine 60mg
+# Acebrophylline 100mg + Acetylcysteine 60mg
 
 It's important to note that there is no standard or widely recognized combination drug containing both acebrophylline 100mg and acetylcysteine 60mg.  These are often used separately to treat respiratory conditions, but not typically together in a fixed-dose combination.  Therefore, the information below is based on the individual actions of each drug and should *not* be interpreted as a description of a combined medication.  Always consult a doctor or pharmacist for accurate information regarding any medication.
 

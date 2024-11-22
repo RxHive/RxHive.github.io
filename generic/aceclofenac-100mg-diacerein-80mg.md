@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Diacerein 80mg
+title: Aceclofenac 100mg + Diacerein 80mg
 ---
 
-# Aceclofenac 100mg  + Diacerein 80mg
+# Aceclofenac 100mg + Diacerein 80mg
 
 **Generic Name:** Aceclofenac 100mg + Diacerein 80mg
 

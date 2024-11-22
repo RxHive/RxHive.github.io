@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Misoprostol 100mcg
+title: Aceclofenac 100mg + Misoprostol 100mcg
 ---
 
-# Aceclofenac 100mg  + Misoprostol 100mcg
+# Aceclofenac 100mg + Misoprostol 100mcg
 
 **Generic Name:** Aceclofenac 100mg + Misoprostol 200mcg (Note:  The provided dosage of Misoprostol is inconsistent with typical formulations.  A common combination is 100mg Aceclofenac + 200mcg Misoprostol.  This response uses the more typical combination.)
 

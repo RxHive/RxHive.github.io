@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.5% w/w  + Benzyl Alcohol 1% w/w  + Linoleic Acid 3% w/w  + Menthol 5% w/w  + Methyl Salicylate 10% w/w
+title: Aceclofenac 1.5% w/w + Benzyl Alcohol 1% w/w + Linoleic Acid 3% w/w + Menthol 5% w/w + Methyl Salicylate 10% w/w
 ---
 
-# Aceclofenac 1.5% w/w  + Benzyl Alcohol 1% w/w  + Linoleic Acid 3% w/w  + Menthol 5% w/w  + Methyl Salicylate 10% w/w
+# Aceclofenac 1.5% w/w + Benzyl Alcohol 1% w/w + Linoleic Acid 3% w/w + Menthol 5% w/w + Methyl Salicylate 10% w/w
 
 It's crucial to understand that I am an AI and cannot provide medical advice.  The information below is for general knowledge and informational purposes only, and should not be considered a substitute for professional medical advice from a doctor or other qualified healthcare provider.  **Always consult a healthcare professional before using any medication, especially topical formulations.**  This particular combination of ingredients is not a standard, pre-approved pharmaceutical product, and its safety and efficacy haven't been established through rigorous clinical trials.  Using it without a doctor's supervision is risky.
 

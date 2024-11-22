@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 200mg  + Montelukast 10mg
+title: Acebrophylline 200mg + Montelukast 10mg
 ---
 
-# Acebrophylline 200mg  + Montelukast 10mg
+# Acebrophylline 200mg + Montelukast 10mg
 
 **Generic Name:** Acebrophylline 200mg + Montelukast 10mg  (Note: This combination is not a standard, commercially available fixed-dose combination.  Acebrophylline and Montelukast are often prescribed separately.  This information is for educational purposes only and should not be considered medical advice.)
 

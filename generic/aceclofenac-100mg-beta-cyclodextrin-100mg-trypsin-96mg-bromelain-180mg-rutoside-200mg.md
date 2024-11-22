@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Beta-Cyclodextrin 100mg  + Trypsin 96mg  + Bromelain 180mg  + Rutoside 200mg
+title: Aceclofenac 100mg + Beta-Cyclodextrin 100mg + Trypsin 96mg + Bromelain 180mg + Rutoside 200mg
 ---
 
-# Aceclofenac 100mg  + Beta-Cyclodextrin 100mg  + Trypsin 96mg  + Bromelain 180mg  + Rutoside 200mg
+# Aceclofenac 100mg + Beta-Cyclodextrin 100mg + Trypsin 96mg + Bromelain 180mg + Rutoside 200mg
 
 It's crucial to understand that I am an AI and cannot provide medical advice.  The combination of Aceclofenac, Beta-Cyclodextrin, Trypsin, Bromelain, and Rutoside is not a standard, widely recognized pharmaceutical formulation.  Therefore, the information below is based on the known individual properties of each component and should **not** be considered a substitute for advice from a qualified healthcare professional.  **Do not use this information to self-treat.**  Always consult a doctor or pharmacist before taking any medication, especially a combination like this.
 

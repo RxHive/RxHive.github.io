@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 50000mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 50000mg
+# Aceclofenac 100mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000mg
 
 It's important to note that a combination of Aceclofenac, Paracetamol, and Trypsin Chymotrypsin at these dosages is **not a standard or widely-approved combination** in many countries.  The inclusion of such a high dose of Trypsin Chymotrypsin (50000mg) is particularly unusual and warrants caution.  This information is for general knowledge only and should **not** be considered medical advice. Always consult a doctor or pharmacist before taking any medication.
 

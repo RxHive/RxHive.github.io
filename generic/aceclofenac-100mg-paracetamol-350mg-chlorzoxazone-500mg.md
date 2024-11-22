@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 350mg  + Chlorzoxazone 500mg
+title: Aceclofenac 100mg + Paracetamol 350mg + Chlorzoxazone 500mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 350mg  + Chlorzoxazone 500mg
+# Aceclofenac 100mg + Paracetamol 350mg + Chlorzoxazone 500mg
 
 It's crucial to understand that I am an AI and cannot provide medical advice. The information below is for general knowledge and informational purposes only, and should not be considered a substitute for professional medical advice from a doctor or other qualified healthcare provider.  **Always consult a healthcare professional before starting or changing any medication.**  The combined use of these three drugs requires careful monitoring by a doctor.
 

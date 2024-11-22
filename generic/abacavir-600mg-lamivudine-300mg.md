@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Abacavir 600mg  + Lamivudine 300mg
+title: Abacavir 600mg + Lamivudine 300mg
 ---
 
-# Abacavir 600mg  + Lamivudine 300mg
+# Abacavir 600mg + Lamivudine 300mg
 
 **Generic Name:** Abacavir/Lamivudine
 

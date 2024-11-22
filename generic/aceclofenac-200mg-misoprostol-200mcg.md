@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 200mg  + Misoprostol 200mcg
+title: Aceclofenac 200mg + Misoprostol 200mcg
 ---
 
-# Aceclofenac 200mg  + Misoprostol 200mcg
+# Aceclofenac 200mg + Misoprostol 200mcg
 
 **Generic Name:** Aceclofenac 200mg + Misoprostol 200mcg
 

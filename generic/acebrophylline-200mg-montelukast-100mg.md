@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 200mg  + Montelukast 100mg
+title: Acebrophylline 200mg + Montelukast 100mg
 ---
 
-# Acebrophylline 200mg  + Montelukast 100mg
+# Acebrophylline 200mg + Montelukast 100mg
 
 It's crucial to understand that combining Acebrophylline 200mg and Montelukast 100mg in a single tablet is **not a standard or approved pharmaceutical combination**.  Pharmacists would not generally dispense such a pre-made combination.  These are often prescribed separately, based on individual patient needs and physician assessment.  Therefore, the information below is based on the individual actions of each drug and should not be interpreted as a description of a combined product.  **Always consult a doctor or pharmacist before taking any medication.**
 

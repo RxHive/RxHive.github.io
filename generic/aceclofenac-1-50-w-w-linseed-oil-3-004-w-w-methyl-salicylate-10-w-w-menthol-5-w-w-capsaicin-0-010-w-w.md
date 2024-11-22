@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.50% w/w  + Linseed Oil 3.004% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.010% w/w
+title: Aceclofenac 1.50% w/w + Linseed Oil 3.004% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.010% w/w
 ---
 
-# Aceclofenac 1.50% w/w  + Linseed Oil 3.004% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w  + Capsaicin 0.010% w/w
+# Aceclofenac 1.50% w/w + Linseed Oil 3.004% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w + Capsaicin 0.010% w/w
 
 This topical analgesic cream combines several active ingredients with different mechanisms of action to provide pain relief.  However, *I am an AI and cannot provide medical advice.* The information below is for educational purposes only and should not be considered a substitute for professional medical advice from a doctor or pharmacist.  Always consult a healthcare provider before using this or any medication, especially if you have pre-existing health conditions or are taking other medications.
 

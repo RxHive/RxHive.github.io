@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.5% w/w  + Linseed Oil 3% w/w  + Methyl Salicylate 10% w/w  + Menthol 0.5% w/w  + Capsaicin 0.01% w/w
+title: Aceclofenac 1.5% w/w + Linseed Oil 3% w/w + Methyl Salicylate 10% w/w + Menthol 0.5% w/w + Capsaicin 0.01% w/w
 ---
 
-# Aceclofenac 1.5% w/w  + Linseed Oil 3% w/w  + Methyl Salicylate 10% w/w  + Menthol 0.5% w/w  + Capsaicin 0.01% w/w
+# Aceclofenac 1.5% w/w + Linseed Oil 3% w/w + Methyl Salicylate 10% w/w + Menthol 0.5% w/w + Capsaicin 0.01% w/w
 
 **Generic Name:** Aceclofenac 1.5% w/w + Linseed Oil 3% w/w + Methyl Salicylate 10% w/w + Menthol 0.5% w/w + Capsaicin 0.01% w/w Topical Analgesic Gel/Cream (Note: There isn't a single generic name for this specific combination; this is a descriptive generic name)
 

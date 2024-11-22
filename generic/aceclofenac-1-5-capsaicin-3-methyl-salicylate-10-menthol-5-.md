@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.5%  + Capsaicin 3%  + Methyl Salicylate 10%  + Menthol 5%
+title: Aceclofenac 1.5% + Capsaicin 3% + Methyl Salicylate 10% + Menthol 5%
 ---
 
-# Aceclofenac 1.5%  + Capsaicin 3%  + Methyl Salicylate 10%  + Menthol 5%
+# Aceclofenac 1.5% + Capsaicin 3% + Methyl Salicylate 10% + Menthol 5%
 
 It's important to preface this information by stating that I am an AI and cannot provide medical advice.  The information below is for educational purposes only and should not be considered a substitute for consultation with a healthcare professional.  Always consult a doctor or pharmacist before using any medication, especially topical analgesics.  The specific formulation and instructions may vary depending on the manufacturer.
 

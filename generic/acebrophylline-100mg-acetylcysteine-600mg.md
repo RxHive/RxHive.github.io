@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 100mg  + Acetylcysteine 600mg
+title: Acebrophylline 100mg + Acetylcysteine 600mg
 ---
 
-# Acebrophylline 100mg  + Acetylcysteine 600mg
+# Acebrophylline 100mg + Acetylcysteine 600mg
 
 It's important to note that combining Acebrophylline and Acetylcysteine in a single formulation isn't standard practice.  While both drugs are used to treat respiratory conditions, they're usually prescribed separately.  Therefore, the information below will treat them as if they were used concurrently, acknowledging this is not a typical combined medication. Always consult a doctor or pharmacist before taking any medication, especially if combining them.
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.30% w/w  + Linseed Oil 0.10% w/w  + Methyl Salicylate 10% w/w  + Menthol 0.10% w/w  + Capsaicin 0.01% w/w
+title: Aceclofenac 1.30% w/w + Linseed Oil 0.10% w/w + Methyl Salicylate 10% w/w + Menthol 0.10% w/w + Capsaicin 0.01% w/w
 ---
 
-# Aceclofenac 1.30% w/w  + Linseed Oil 0.10% w/w  + Methyl Salicylate 10% w/w  + Menthol 0.10% w/w  + Capsaicin 0.01% w/w
+# Aceclofenac 1.30% w/w + Linseed Oil 0.10% w/w + Methyl Salicylate 10% w/w + Menthol 0.10% w/w + Capsaicin 0.01% w/w
 
 This topical formulation combines several active ingredients commonly used for pain relief, particularly musculoskeletal pain.  However, it's crucial to understand that this information is for general knowledge and should **not** be considered medical advice.  Always consult a doctor or pharmacist before using any medication.
 

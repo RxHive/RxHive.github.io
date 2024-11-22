@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 10mg  + Phenylephrine 5mg  + Caffeine 25mg
+title: Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 10mg + Phenylephrine 5mg + Caffeine 25mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Cetirizine 10mg  + Phenylephrine 5mg  + Caffeine 25mg
+# Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 10mg + Phenylephrine 5mg + Caffeine 25mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 325mg + Cetirizine 10mg + Phenylephrine 5mg + Caffeine 25mg  (This is a combination drug, not a single generic name.)
 

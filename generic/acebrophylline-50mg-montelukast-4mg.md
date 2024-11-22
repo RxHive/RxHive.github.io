@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 50mg  + Montelukast 4mg
+title: Acebrophylline 50mg + Montelukast 4mg
 ---
 
-# Acebrophylline 50mg  + Montelukast 4mg
+# Acebrophylline 50mg + Montelukast 4mg
 
 **Generic Name:** Acebrophylline 50mg + Montelukast 4mg  (Note: This is a combination not typically found as a single generic product.  Acebrophylline and Montelukast are available individually as generics.)
 

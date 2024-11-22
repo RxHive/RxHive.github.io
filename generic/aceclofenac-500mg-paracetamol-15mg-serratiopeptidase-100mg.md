@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 500mg  + Paracetamol 15mg  + Serratiopeptidase 100mg
+title: Aceclofenac 500mg + Paracetamol 15mg + Serratiopeptidase 100mg
 ---
 
-# Aceclofenac 500mg  + Paracetamol 15mg  + Serratiopeptidase 100mg
+# Aceclofenac 500mg + Paracetamol 15mg + Serratiopeptidase 100mg
 
 It's important to note that a combination of Aceclofenac 500mg, Paracetamol 15mg, and Serratiopeptidase 100mg is **highly unusual and likely incorrect**.  Paracetamol (acetaminophen) is typically dosed much higher (e.g., 325-1000mg), and the combination itself isn't a standard formulation.  It's crucial to verify the dosage and combination with the prescribing physician or pharmacist before taking any medication.  This information is for educational purposes only and does not constitute medical advice.
 

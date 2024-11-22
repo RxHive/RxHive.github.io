@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 400mg  + Montelukast 10mg
+title: Acebrophylline 400mg + Montelukast 10mg
 ---
 
-# Acebrophylline 400mg  + Montelukast 10mg
+# Acebrophylline 400mg + Montelukast 10mg
 
 **Generic Name:** Acebrophylline 400mg + Montelukast 10mg
 

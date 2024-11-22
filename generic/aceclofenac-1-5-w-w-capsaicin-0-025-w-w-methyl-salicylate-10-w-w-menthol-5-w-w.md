@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 1.5% w/w  + Capsaicin 0.025% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w
+title: Aceclofenac 1.5% w/w + Capsaicin 0.025% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w
 ---
 
-# Aceclofenac 1.5% w/w  + Capsaicin 0.025% w/w  + Methyl Salicylate 10% w/w  + Menthol 5% w/w
+# Aceclofenac 1.5% w/w + Capsaicin 0.025% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w
 
 **Generic Name:** Aceclofenac 1.5% w/w + Capsaicin 0.025% w/w + Methyl Salicylate 10% w/w + Menthol 5% w/w  (This is not a single generic name, as it's a combination of four active ingredients.)
 

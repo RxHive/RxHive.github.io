@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 200mg  + Desloratadine 5mg  + Montelukast 5mg
+title: Acebrophylline 200mg + Desloratadine 5mg + Montelukast 5mg
 ---
 
-# Acebrophylline 200mg  + Desloratadine 5mg  + Montelukast 5mg
+# Acebrophylline 200mg + Desloratadine 5mg + Montelukast 5mg
 
 It's crucial to understand that I cannot provide medical advice. The information below is for informational purposes only and should not be considered a substitute for professional medical advice from a doctor or other qualified healthcare provider.  Always consult your doctor or pharmacist before starting any new medication, including this combination.  This particular combination of drugs is not a standard, pre-packaged formulation.  A doctor might prescribe these three medications *separately* to treat specific allergy or asthma symptoms.
 

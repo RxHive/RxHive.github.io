@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 50mg  + Terbutaline 1.25mg  + Menthol 2.5mg
+title: Acebrophylline 50mg + Terbutaline 1.25mg + Menthol 2.5mg
 ---
 
-# Acebrophylline 50mg  + Terbutaline 1.25mg  + Menthol 2.5mg
+# Acebrophylline 50mg + Terbutaline 1.25mg + Menthol 2.5mg
 
 It's important to note that a combination drug containing Acebrophylline 50mg + Terbutaline 1.25mg + Menthol 2.5mg is **not a standard or widely available pharmaceutical formulation**.  Therefore, providing detailed information on usage, side effects, and mechanism of action based on established medical knowledge is impossible.  This combination would need to be specifically investigated from a reliable source that details the exact formulation.
 

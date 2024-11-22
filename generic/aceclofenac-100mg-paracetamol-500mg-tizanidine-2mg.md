@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 500mg  + Tizanidine 2mg
+title: Aceclofenac 100mg + Paracetamol 500mg + Tizanidine 2mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 500mg  + Tizanidine 2mg
+# Aceclofenac 100mg + Paracetamol 500mg + Tizanidine 2mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 500mg + Tizanidine 2mg
 

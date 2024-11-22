@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Chlorzoxazone 50000AU
+title: Aceclofenac 100mg + Paracetamol 325mg + Chlorzoxazone 50000AU
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Chlorzoxazone 50000AU
+# Aceclofenac 100mg + Paracetamol 325mg + Chlorzoxazone 50000AU
 
 It's crucial to understand that a combination of Aceclofenac 100mg + Paracetamol 325mg + Chlorzoxazone 50000 AU **does not exist as a standard, commercially available medication.**  The dosage of Chlorzoxazone is extremely high (50,000 AU is not a standard unit for Chlorzoxazone; it's usually measured in mg).  This suggests a typographical error or a misrepresentation.  Chlorzoxazone is typically prescribed in much lower dosages (e.g., 250-750mg per day).
 

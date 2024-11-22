@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Acebrophylline 200mg  + Acetylcysteine 600mg
+title: Acebrophylline 200mg + Acetylcysteine 600mg
 ---
 
-# Acebrophylline 200mg  + Acetylcysteine 600mg
+# Acebrophylline 200mg + Acetylcysteine 600mg
 
 It's important to note that I am an AI and cannot provide medical advice.  The information below is for general knowledge and informational purposes only, and should not be considered a substitute for professional medical advice from a doctor or other qualified healthcare provider.  Always consult with your physician or pharmacist before starting any medication, including one containing acebrophylline and acetylcysteine.  They can assess your specific needs and potential risks.
 

@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac  + Paracetamol  + Tizanidine
+title: Aceclofenac + Paracetamol + Tizanidine
 ---
 
-# Aceclofenac  + Paracetamol  + Tizanidine
+# Aceclofenac + Paracetamol + Tizanidine
 
 **Generic Name:** Aceclofenac + Paracetamol + Tizanidine
 
