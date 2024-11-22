@@ -1,10 +1,10 @@
 ---
 layout: minimal
 nav_exclude: true
-title: Aceclofenac 100mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 150000units
+title: Aceclofenac 100mg + Paracetamol 325mg + Trypsin Chymotrypsin 150000units
 ---
 
-# Aceclofenac 100mg  + Paracetamol 325mg  + Trypsin Chymotrypsin 150000units
+# Aceclofenac 100mg + Paracetamol 325mg + Trypsin Chymotrypsin 150000units
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 325mg + Trypsin Chymotrypsin 150000units
 
