@@ -1,4 +1,6 @@
 const fs = require('fs');
+const path = require('path');
+
 const { VertexAI } = require('@google-cloud/vertexai');
 
 // Initialize Vertex AI with your Cloud project and location
@@ -97,10 +99,14 @@ title: ${genericName}
             if (!fs.existsSync(directory)) {
                 fs.mkdirSync(directory, { recursive: true }); // Create the directory if it doesn't exist
             }
-            // Write to file
+
+            // Write the file to the determined directory
             const filename = path.join(directory, `${sanitizeFilename(genericName)}.md`);
             fs.writeFileSync(filename, fileContent, 'utf8');
+
             console.log(`Content successfully written to ${filename}`);
+            return; // Exit the function on success
+
             return; // Exit the function on success
         } catch (error) {
             console.error(`Attempt ${attempt} failed for '${genericName}':`, error.message);
