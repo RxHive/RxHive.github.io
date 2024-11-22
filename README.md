@@ -1,174 +1,55 @@
-# just-the-docs-template
+# RxHive: Open-Source Collaborative Medicine Database
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+RxHive is an open-source platform built on **Jekyll**, designed to collaboratively construct a comprehensive medicine database. By combining **AI-generated content** and **crowd-sourced contributions**, RxHive empowers healthcare professionals, researchers, and the wider community to build a reliable, ever-evolving repository of drug and treatment information.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+## **About RxHive**
 
-More specifically, the created site:
+Healthcare information is complex and ever-changing, making it challenging to maintain up-to-date resources. RxHive solves this problem by merging the power of artificial intelligence with the collective knowledge of contributors from around the world. This unique approach ensures the platform is dynamic, reliable, and relevant to the needs of medical professionals and patients alike.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+## **Key Features**
 
-To get started with creating a site, simply:
+### 1. **AI-Generated Content**
+RxHive leverages state-of-the-art AI to generate detailed and structured initial content for medicines and treatments. This AI-generated foundation serves as a starting point for further refinement and expansion by the community.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### 2. **Crowd-Sourced Contributions**
+The strength of RxHive lies in its collaborative nature. Healthcare professionals, researchers, and the community contribute to enhance the database, adding nuanced insights, regional relevance (e.g., data specific to India), and corrections to ensure accuracy and comprehensiveness.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
+### 3. **Open-Source and Transparent**
+As an open-source initiative, RxHive thrives on transparency. Anyone can contribute, review, and improve the platform’s content, ensuring accountability and inclusivity in building the knowledge base.
 
-After completing the creation of your new site on GitHub, update it as needed:
+### 4. **Scalable and Dynamic**
+RxHive is designed to adapt to medical advancements and changes in drug information. The platform evolves continuously with community updates, making it a living resource for healthcare.
 
-## Replace the content of the template pages
+### 5. **India-Focused Crowd-Sourcing**
+RxHive emphasizes crowd-sourced contributions from India, ensuring regional drug availability, cultural practices, and treatment protocols are well-represented.
 
-Update the following files to your own content:
+## **How It Works**
+1. **AI-Powered Kickstart**: Each drug or treatment entry is generated using AI to provide detailed, structured content on:
+   - Generic Name
+   - Usage
+   - Side Effects
+   - Mechanism of Action
+   - FAQs
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+2. **Collaborative Refinement**: Contributors from across the globe, especially healthcare professionals, review and improve the content, ensuring it remains accurate and comprehensive.
 
-## Changing the version of the theme and/or Jekyll
+3. **Version Control**: As an open-source project, every change to the content is tracked, ensuring complete transparency and the ability to revert to previous versions if necessary.
 
-Simply edit the relevant line(s) in the `Gemfile`.
+4. **Localized Relevance**: RxHive encourages region-specific contributions to address unique healthcare challenges and treatment practices in countries like India.
 
-## Adding a plugin
+## **Vision**
+RxHive envisions becoming the most trusted, community-driven medicine database globally. By leveraging technology and crowd-sourced collaboration, the platform aims to:
+- Democratize access to accurate medical information.
+- Reduce misinformation in healthcare.
+- Bridge the gap between global and local healthcare knowledge.
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+## **Contribute to RxHive**
+RxHive thrives on the contributions of its community. Whether you are a healthcare professional, researcher, or enthusiast, you can:
+- **Review Content**: Ensure entries are accurate and up-to-date.
+- **Add New Information**: Expand the database with new drugs, treatments, and region-specific data.
+- **Enhance Accessibility**: Help in translating content or improving the platform’s usability.
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+Join us in building the future of collaborative medical knowledge at [RxHive GitHub Repository](#).
 
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
-    ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-    ```
-
-3.  Set the path param for the Upload artifact step:
-
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: "docs/_site/"
-    ```
-
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
-
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+## **Disclaimer**
+RxHive is a collaborative platform that combines AI and crowd-sourced contributions. While every effort is made to ensure accuracy, the content is not a substitute for professional medical advice. Always consult a licensed healthcare provider for medical decisions.
