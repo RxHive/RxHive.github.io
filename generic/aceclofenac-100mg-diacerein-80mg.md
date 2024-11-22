@@ -1,7 +1,6 @@
 ---
 layout: minimal
 nav_exclude: true
-nav_exclude: true
 title: Aceclofenac 100mg  + Diacerein 80mg
 ---
 
