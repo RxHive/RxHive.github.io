@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://RxHive.github.io/sitemap.xml
