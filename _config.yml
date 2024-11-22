@@ -16,11 +16,26 @@ just_the_docs:
   collections:
     generic:
       output: true
-footer_content: "Made with ❤️ at <a href=\"https://www.zynapte.com\">Zynapte</a> and the <a href=\"https://www.github.com\">GitHub Community</a>."
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/RxHive/RxHive.github.io" 
-gh_edit_branch: "main" 
-gh_edit_view_mode: "tree"
+  # Site footer customization
+  footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
+  # Show last edit details
+  last_edit_timestamp: true
+  last_edit_time_format: "%b %e %Y at %I:%M %p"
+  # GitHub edit links
+  gh_edit_link: true
+  gh_edit_link_text: "Edit this page on GitHub."
+  gh_edit_repository: "https://github.com/RxHive/RxHive.github.io"
+  gh_edit_branch: "main"
+  gh_edit_view_mode: "tree"
+
+# Exclude generic pages from main navigation
+exclude:
+  - "generic/**"
+
+# Ensure proper Jekyll processing
+defaults:
+  - scope:
+      path: "generic/"
+    values:
+      layout: "default"
+      output: true
