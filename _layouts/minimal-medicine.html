@@ -1,0 +1,37 @@
+---
+layout: minimal
+image: "/assets/images/Zynapte.png"
+---
+
+{{ content }}
+<hr />
+<p style="font-size: 10px;">
+  <strong>Note:</strong>
+  The information provided here is for educational purposes only and should not be considered as professional medical
+  advice. For accurate and reliable information about any medication or healthcare-related topic, refer to trusted
+  sources such as the Ministry of Health and Family Welfare (MoHFW), the Central Drugs Standard Control Organization
+  (CDSCO), and other reputable medical institutions in India, as well as international organizations like the World
+  Health Organization (WHO), the Food and Drug Administration (FDA), and the National Institutes of Health (NIH).
+  Always consult with your healthcare provider or pharmacist for personalized advice based on your individual health
+  needs and medical history. For the latest guidelines and prescribing information, refer to official resources such as
+  the CDSCO website, the Ministry of Health and Family Welfare, or international medical journals and databases like
+  PubMed.
+  Please note that the information here is not a substitute for professional medical guidance. Always seek the advice of
+  your doctor or another qualified healthcare provider before making any changes to your medication or treatment plan.
+</p>
+
+<script>
+  const searchInput = document.getElementById('search-input');
+  function sendSearchKeyword(keyword) {
+    gtag('event', 'search', {
+      'search_term': keyword 
+    });
+  }
+  searchInput.addEventListener('keydown', function (event) {
+    const searchTerm = searchInput.value.trim();
+    console.log(searchTerm)
+    if (searchTerm.length > 4) {
+      sendSearchKeyword(searchTerm); 
+    }
+  });
+</script>

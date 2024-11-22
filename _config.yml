@@ -1,0 +1,107 @@
+title: RxHive
+theme: just-the-docs
+color_scheme: dark
+url: https://rxhive.zynapte.com
+baseurl: "" # Set to "" for root deployment. Update if deploying to a subdirectory.
+default_image: "/assets/images/Zynapte.png"
+# Enable search functionality
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: false
+  button: false
+  focus_shortcut_key: 'k'
+page:
+  nav_enabled: false
+# Collections configuration
+collections:
+  generic:
+    output: true
+    permalink: /generic/:path/
+  composition:
+    output: true
+    permalink: /composition/:path/
+
+# Just the Docs theme configuration
+just_the_docs:
+  collections:
+    generic:
+      name: Generic
+      nav_exclude: true    # Exclude from main navigation
+      nav_fold: true       # Fold collection pages in navigation (if included later)
+      output: true
+    composition:
+      name: Composition
+      nav_exclude: true    # Exclude from main navigation
+      nav_fold: true       # Fold collection pages in navigation (if included later)
+      output: true
+footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/RxHive/RxHive.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+compress_html:
+  endings: "all" # Collapse all specified HTML endings
+  startings: "html head body div" # Customize collapsing for specific tags
+  comments: "all" # Remove all comments
+  clippings: "all" # Trim all specified tags
+  blanklines: true # Collapse blank lines
+  profile: true # Enable profiling
+  ignore:
+    envs: "none" # Ignore in specific environments (e.g., development)
+
+# Default layout and options for generic collection
+defaults:
+  - scope:
+      path: "generic/"
+    values:
+      layout: "default"  # Use default layout for generic pages
+      output: true
+  - scope:
+      path: "composition/"
+    values:
+      layout: "default"  # Use default layout for composition pages
+      output: true
+
+# Include files and directories for Jekyll to process
+include:
+  - generic
+  - composition
+  - assets/js/search-data.json
+  - robots.txt
+  - google46cc0abefa86d150.html
+  - BingSiteAuth.xml
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude specific files and folders from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - composition/node_modules
+  - composition/*.js
+  - composition/*.txt
+
+# Sitemap configuration
+sitemap:
+  filename: sitemap.xml
+  exclude:
+    - /404.html
+
+# Google Analytics configuration
+ga_tracking: G-JMBXT0N7K0
+ga_tracking_anonymize_ip: true
