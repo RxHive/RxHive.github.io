@@ -3,42 +3,56 @@ description: RxHive is an open-source platform built on Jekyll, designed to coll
 theme: just-the-docs
 
 url: https://RxHive.github.io
+baseurl: "https://RxHive.github.io"
 
-# Enable the generic collection
+# Collections configuration
 collections:
   generic:
     output: true
     permalink: /generic/:path/
 
-# Just the Docs configuration
 just_the_docs:
-  # Exclude the generic collection from navigation
   collections:
     generic:
       name: Generic
-      nav_exclude: true
-      nav_fold: true  
+      nav_exclude: true    # Exclude the collection from main navigation
+      nav_fold: true       # Fold collection pages in navigation (if included later)
       output: true
-  # Footer customization
   footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
-  # Show last edit details
   last_edit_timestamp: true
   last_edit_time_format: "%b %e %Y at %I:%M %p"
-  # GitHub edit links
   gh_edit_link: true
   gh_edit_link_text: "Edit this page on GitHub."
   gh_edit_repository: "https://github.com/RxHive/RxHive.github.io"
   gh_edit_branch: "main"
   gh_edit_view_mode: "tree"
 
-# Ensure proper Jekyll processing
+# Default layout and options for generic collection
 defaults:
   - scope:
       path: "generic/"
     values:
-      layout: "default"
+      layout: "default"  # Use default layout for generic pages
       output: true
 
-# Include generic folder in the site build process
+# Include generic folder in processing
 include:
   - generic
+  - robots.txt
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Exclude specific files and folders from the sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Sitemap settings (optional)
+sitemap:
+  filename: sitemap.xml # Default is sitemap.xml
+  exclude:
+    - /404.html
