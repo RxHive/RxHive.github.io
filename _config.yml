@@ -12,11 +12,11 @@ collections:
 
 # Just the Docs configuration
 just_the_docs:
-  # Automatically display pages in navigation, except for generic files
+  # Exclude the generic collection from navigation
   collections:
     generic:
       output: true
-  # Site footer customization
+  # Footer customization
   footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
   # Show last edit details
   last_edit_timestamp: true
@@ -28,10 +28,6 @@ just_the_docs:
   gh_edit_branch: "main"
   gh_edit_view_mode: "tree"
 
-# Exclude generic pages from main navigation
-exclude:
-  - "generic/**"
-
 # Ensure proper Jekyll processing
 defaults:
   - scope:
@@ -39,3 +35,7 @@ defaults:
     values:
       layout: "default"
       output: true
+
+# Include generic folder in the site build process
+include:
+  - generic
