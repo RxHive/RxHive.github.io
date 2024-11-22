@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 200mg  + Rabeprazole 200mg
+nav_exclude: true
+title: Aceclofenac 200mg + Rabeprazole 200mg
 ---
 
-# Aceclofenac 200mg  + Rabeprazole 200mg
+# Aceclofenac 200mg + Rabeprazole 200mg
 
 **Generic Name:** Aceclofenac 200mg + Rabeprazole 200mg
 

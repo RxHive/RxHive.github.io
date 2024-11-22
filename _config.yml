@@ -39,6 +39,7 @@ defaults:
 include:
   - generic
   - robots.txt
+  - google46cc0abefa86d150.html
 
 # Plugins
 plugins:
