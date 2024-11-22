@@ -104,7 +104,7 @@ title: ${genericName}
 
 // Process the file and generate markdown files
 async function processGenericsFile() {
-    const filePath = 'generics.txt';
+    const filePath = 'generics.txt'; 
     try {
         const data = fs.readFileSync(filePath, 'utf8');
         const genericNames = data.split('\n').map(line => line.trim()).filter(line => line);
