@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Acetylcysteine 300mg + Ambroxol 30mg
 ---
 
