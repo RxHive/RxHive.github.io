@@ -113,18 +113,28 @@ title: ${genericName}
     }
 }
 
-// Process the file and generate markdown files
+// Process the file and generate markdown files in parallel
 async function processGenericsFile() {
     const filePath = 'generics.txt';
     try {
         const data = fs.readFileSync(filePath, 'utf8');
         const genericNames = data.split('\n').map(line => line.trim()).filter(line => line);
 
-        for (const genericName of genericNames) {
-            const sanitizedName = genericName.replace(/[()"']/g, '').replace(/,/g, ' +');
-            console.log(`Processing: '${sanitizedName}'`);
-            await generateContentForGeneric(sanitizedName);
-            await new Promise(resolve => setTimeout(resolve, 2000)); // Add delay between requests
+        const batchSize = 5; // Number of parallel connections
+        for (let i = 0; i < genericNames.length; i += batchSize) {
+            const batch = genericNames.slice(i, i + batchSize);
+            console.log(`Processing batch: ${batch.join(', ')}`);
+
+            await Promise.all(
+                batch.map(async (genericName) => {
+                    const sanitizedName = genericName.replace(/[()"']/g, '').replace(/,/g, ' +');
+                    console.log(`Processing: '${sanitizedName}'`);
+                    await generateContentForGeneric(sanitizedName);
+                })
+            );
+
+            // Optional: Add a delay between batches if needed
+            await new Promise(resolve => setTimeout(resolve, 2000));
         }
 
         console.log('All generics processed successfully.');
