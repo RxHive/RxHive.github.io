@@ -11,6 +11,7 @@ title: Ambroxol + Levosalbutamol + Guaifenesin
 **Usage:** This combination medication is typically used to treat symptoms of respiratory tract infections, particularly those involving bronchitis and other conditions causing cough with phlegm.  It's used to relieve chest congestion and ease breathing.  Ambroxol acts as a mucolytic (thinning mucus), Levosalbutamol is a bronchodilator (opens airways), and Guaifenesin is an expectorant (helps to cough up phlegm).  It's important to note that this combination is not a treatment for the underlying infection itself; it manages the symptoms.  Always follow a doctor's prescription and dosage instructions.
 
 **Side Effects:**  The side effects can vary depending on the individual and the specific dosages of each component. Common side effects may include:
+
 * **From Ambroxol:** Nausea, vomiting, diarrhea, stomach upset, headache, dizziness.  Rarely, allergic reactions such as skin rashes or itching.
 * **From Levosalbutamol:** Tremors, nervousness, headache, palpitations, increased heart rate, muscle cramps. In rare cases, more serious cardiovascular effects.
 * **From Guaifenesin:** Nausea, vomiting, headache, dizziness, stomach upset.
