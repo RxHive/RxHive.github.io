@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mg  + Paracetamol 15mg
+nav_exclude: true
+title: Aceclofenac 100mg + Paracetamol 15mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 15mg
+# Aceclofenac 100mg + Paracetamol 15mg
 
 It's important to note that a combination of Aceclofenac 100mg and Paracetamol 15mg is **highly unusual**.  Paracetamol (acetaminophen) dosages are typically much higher (325mg - 1000mg) when used in combination with NSAIDs like Aceclofenac.  A 15mg dose of Paracetamol is ineffective and likely a mistake in the provided information.  This response will address Aceclofenac 100mg + a standard Paracetamol dose (e.g., 325mg or 500mg), but you should **consult a doctor or pharmacist** if you have a medication with this unusual dosage.
 

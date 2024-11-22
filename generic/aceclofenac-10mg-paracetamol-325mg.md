@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 10mg  + Paracetamol 325mg
+nav_exclude: true
+title: Aceclofenac 10mg + Paracetamol 325mg
 ---
 
-# Aceclofenac 10mg  + Paracetamol 325mg
+# Aceclofenac 10mg + Paracetamol 325mg
 
 **Generic Name:** Aceclofenac 10mg + Paracetamol 325mg
 

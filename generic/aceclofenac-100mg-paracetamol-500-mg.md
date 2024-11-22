@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mg  + Paracetamol 500 mg
+nav_exclude: true
+title: Aceclofenac 100mg + Paracetamol 500 mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 500 mg
+# Aceclofenac 100mg + Paracetamol 500 mg
 
 **Generic Name:** Aceclofenac 100mg + Paracetamol 500mg
 

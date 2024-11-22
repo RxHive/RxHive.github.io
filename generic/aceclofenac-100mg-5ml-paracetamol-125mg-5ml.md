@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mg/5ml  + Paracetamol 125mg/5ml
+nav_exclude: true
+title: Aceclofenac 100mg/5ml + Paracetamol 125mg/5ml
 ---
 
-# Aceclofenac 100mg/5ml  + Paracetamol 125mg/5ml
+# Aceclofenac 100mg/5ml + Paracetamol 125mg/5ml
 
 **Generic Name:** Aceclofenac + Paracetamol Oral Suspension (Note:  There is no single official generic name for this specific combination.  This is a descriptive title)
 

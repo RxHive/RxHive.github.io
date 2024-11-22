@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 50mg/5ml  + Paracetamol 250mg/5ml
+nav_exclude: true
+title: Aceclofenac 50mg/5ml + Paracetamol 250mg/5ml
 ---
 
-# Aceclofenac 50mg/5ml  + Paracetamol 250mg/5ml
+# Aceclofenac 50mg/5ml + Paracetamol 250mg/5ml
 
 **Generic Name:** Aceclofenac + Paracetamol Oral Suspension (This is a combination drug, so the generic name reflects both active ingredients.)
 

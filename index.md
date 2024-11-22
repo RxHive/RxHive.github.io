@@ -3,7 +3,7 @@ title: Home
 layout: minimal
 ---
 
-# RxHive: Open-Source Collaborative Medicine Database
+# Open-Source Collaborative Medicine Database
 
 RxHive is an open-source platform built on **Jekyll**, designed to collaboratively construct a comprehensive medicine database. By combining **AI-generated content** and **crowd-sourced contributions**, RxHive empowers healthcare professionals, researchers, and the wider community to build a reliable, ever-evolving repository of drug and treatment information.
 

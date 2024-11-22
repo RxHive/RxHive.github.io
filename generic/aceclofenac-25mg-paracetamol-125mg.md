@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 25mg  + Paracetamol 125mg
+nav_exclude: true
+title: Aceclofenac 25mg + Paracetamol 125mg
 ---
 
-# Aceclofenac 25mg  + Paracetamol 125mg
+# Aceclofenac 25mg + Paracetamol 125mg
 
 **Generic Name:** Aceclofenac 25mg + Paracetamol 125mg (This is a combination drug, so both names are listed)
 

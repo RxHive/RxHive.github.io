@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mg  + Paracetamol 4mg
+nav_exclude: true
+title: Aceclofenac 100mg + Paracetamol 4mg
 ---
 
-# Aceclofenac 100mg  + Paracetamol 4mg
+# Aceclofenac 100mg + Paracetamol 4mg
 
 It seems there's a mistake in the provided dosage.  Paracetamol (acetaminophen) is typically used at a much higher dose (325mg - 1000mg) than 4mg.  A combination of 4mg paracetamol with any other drug would be ineffective.  I will answer assuming the paracetamol dosage is a typo and should be 325mg or higher.
 

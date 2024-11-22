@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 5mg/5ml  + Paracetamol 125mg/5ml
+nav_exclude: true
+title: Aceclofenac 5mg/5ml + Paracetamol 125mg/5ml
 ---
 
-# Aceclofenac 5mg/5ml  + Paracetamol 125mg/5ml
+# Aceclofenac 5mg/5ml + Paracetamol 125mg/5ml
 
 **Generic Name:** Aceclofenac 5mg/5ml + Paracetamol 125mg/5ml (This is a combination drug, so both names are listed)
 

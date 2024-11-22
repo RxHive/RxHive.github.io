@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 500mg  + Paracetamol 125mg
+nav_exclude: true
+title: Aceclofenac 500mg + Paracetamol 125mg
 ---
 
-# Aceclofenac 500mg  + Paracetamol 125mg
+# Aceclofenac 500mg + Paracetamol 125mg
 
 **Generic Name:** Aceclofenac 500mg + Paracetamol 125mg  (Note: This combination is not standard in many regions.  Aceclofenac is more commonly combined with Paracetamol in lower ratios, e.g., 100mg/325mg or 100mg/500mg.  The 500mg/125mg ratio might be less common or even unavailable depending on your location. Always check with your local pharmacy or doctor for availability and appropriateness.)
 

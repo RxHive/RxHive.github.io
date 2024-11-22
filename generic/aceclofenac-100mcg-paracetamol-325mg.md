@@ -1,9 +1,10 @@
 ---
 layout: minimal
-title: Aceclofenac 100mcg  + Paracetamol 325mg
+nav_exclude: true
+title: Aceclofenac 100mcg + Paracetamol 325mg
 ---
 
-# Aceclofenac 100mcg  + Paracetamol 325mg
+# Aceclofenac 100mcg + Paracetamol 325mg
 
 It's important to note that Aceclofenac is typically available in dosages of 100mg, not 100mcg (micrograms).  100mcg is a thousandth of a milligram, an incredibly low dose for Aceclofenac.  This combination likely doesn't exist at that dosage.  The information below assumes the Aceclofenac dose is 100mg.  Always consult a pharmacist or doctor for accurate information on your specific medication.
 

@@ -1,5 +1,6 @@
 ---
 layout: minimal
+nav_exclude: true
 title: Aceclofenac 500mg + Paracetamol 100mg
 ---
 
