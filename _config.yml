@@ -2,5 +2,17 @@ title: RxHive
 description: RxHive is an open-source platform built on Jekyll, designed to collaboratively construct a comprehensive medicine database. By combining AI-generated content and crowd-sourced contributions, RxHive empowers healthcare professionals, researchers, and the wider community to build a reliable, ever-evolving repository of drug and treatment information.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://RxHive.github.io
 
+# Enable the generic collection
+collections:
+  generic:
+    output: true
+    permalink: /generic/:path/
+
+# Just the Docs configuration
+just_the_docs:
+  # Automatically display pages in navigation, except for generic files
+  collections:
+    generic:
+      output: true

@@ -54,7 +54,7 @@ RxHive thrives on the contributions of its community. Whether you are a healthca
 - **Add New Information**: Expand the database with new drugs, treatments, and region-specific data.
 - **Enhance Accessibility**: Help in translating content or improving the platform’s usability.
 
-Join us in building the future of collaborative medical knowledge at [RxHive GitHub Repository](#).
+Join us in building the future of collaborative medical knowledge at [RxHive GitHub Repository](https://github.com/RxHive/RxHive.github.io.git).
 
 ## **Disclaimer**
 RxHive is a collaborative platform that combines AI and crowd-sourced contributions. While every effort is made to ensure accuracy, the content is not a substitute for professional medical advice. Always consult a licensed healthcare provider for medical decisions.
