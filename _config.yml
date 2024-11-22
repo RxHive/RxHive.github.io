@@ -15,6 +15,9 @@ just_the_docs:
   # Exclude the generic collection from navigation
   collections:
     generic:
+      name: Generic
+      nav_exclude: true
+      nav_fold: true  
       output: true
   # Footer customization
   footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
