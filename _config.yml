@@ -56,6 +56,8 @@ defaults:
 include:
   - generic
   - composition
+  - generic-search.json
+  - composition-search.json
   - robots.txt
   - google46cc0abefa86d150.html
   - BingSiteAuth.xml
