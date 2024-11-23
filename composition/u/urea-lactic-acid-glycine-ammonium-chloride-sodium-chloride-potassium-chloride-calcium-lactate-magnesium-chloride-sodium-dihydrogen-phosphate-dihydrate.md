@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Urea + Lactic Acid + Glycine + Ammonium Chloride + Sodium Chloride + Potassium Chloride + Calcium Lactate + Magnesium Chloride + Sodium Dihydrogen Phosphate Dihydrate
 ---
