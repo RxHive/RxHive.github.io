@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Recombinant Human Epidermal Growth Factor + Chlorhexidine Gluconate + Silver Sulfadiazine
 ---

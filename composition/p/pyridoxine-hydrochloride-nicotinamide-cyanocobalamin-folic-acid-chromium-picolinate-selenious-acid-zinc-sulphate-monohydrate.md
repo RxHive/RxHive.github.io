@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Pyridoxine Hydrochloride + Nicotinamide + Cyanocobalamin + Folic Acid + Chromium Picolinate + Selenious acid + Zinc Sulphate Monohydrate
 ---
