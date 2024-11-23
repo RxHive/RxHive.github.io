@@ -1,35 +1,90 @@
----
-layout: table_wrappers
----
-
 <!DOCTYPE html>
-
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <body>
-  {% include icons/icons.html %}
   <div class="main" id="top">
-    {% include components/header.html %}
-    <div class="main-content-wrap">
-      {% include components/breadcrumbs.html %}
-      <div id="main-content" class="main-content">
-        <main>
-          {% if site.heading_anchors != false %}
-            {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
-          {% else %}
-            {{ content }}
-          {% endif %}
-
-          {% if page.has_toc != false %}
-            {% include components/children_nav.html %}
-          {% endif %}
-        </main>
-        {% include components/footer.html %}
+    <header class="header">
+      <div class="logo">
+        <a href="{{ site.baseurl | default: '/' }}">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }}" class="logo-image">
+        </a>
       </div>
+    </header>
+
+    <div class="search-bar-container">
+      {% if site.search_enabled != false %}
+        <form role="search" method="get" action="#">
+          <input type="search" name="q" placeholder="Search..." class="search-bar" aria-label="Search">
+          <button type="submit" class="search-button">Search</button>
+        </form>
+      {% endif %}
     </div>
-    {% if site.search_enabled != false %}
-      {% include components/search_footer.html %}
-    {% endif %}
+
+    <footer class="footer">
+      <p><a href="{{ '/about/' | relative_url }}">About</a></p>
+    </footer>
   </div>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .logo {
+      margin-bottom: 20px;
+    }
+
+    .logo-image {
+      max-width: 150px;
+      height: auto;
+    }
+
+    .search-bar-container {
+      margin-bottom: 20px;
+    }
+
+    .search-bar {
+      width: 300px;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .search-button {
+      padding: 10px 15px;
+      font-size: 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .search-button:hover {
+      background-color: #0056b3;
+    }
+
+    .footer {
+      margin-top: 20px;
+    }
+
+    .footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </body>
 </html>
