@@ -4,10 +4,11 @@ layout: null
 
 [
 {% for page in site.html_pages %}
+  {% assign usage_section = page.content | split: "**Usage:**" | last | split: "**" | first %}
   {
     "title": "{{ page.title | escape }}",
     "url": "{{ page.url | relative_url }}",
-    "content": {{ page.content | strip_html | normalize_whitespace | truncate: 100 | jsonify }}
+    "content": {{ usage_section | strip_html | normalize_whitespace | truncate: 150 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
