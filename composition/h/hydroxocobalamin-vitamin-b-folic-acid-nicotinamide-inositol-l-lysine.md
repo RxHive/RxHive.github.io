@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Hydroxocobalamin + Vitamin B + Folic Acid + Nicotinamide + Inositol + L-Lysine
 ---
