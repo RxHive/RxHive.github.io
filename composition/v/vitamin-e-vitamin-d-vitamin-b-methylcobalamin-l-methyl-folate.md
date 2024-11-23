@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Vitamin E + Vitamin D + Vitamin B + Methylcobalamin + L-Methyl Folate
 ---
