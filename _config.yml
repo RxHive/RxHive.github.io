@@ -3,7 +3,7 @@ description: RxHive is an open-source platform built on Jekyll, designed to coll
 theme: just-the-docs
 color_scheme: dark
 url: https://rxhive.zynapte.com
-baseurl: "https://rxhive.zynapte.com"
+baseurl: ""
 search_enabled: true
 search:
   heading_level: 2
