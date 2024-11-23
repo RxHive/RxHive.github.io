@@ -16,7 +16,8 @@ search:
   rel_url: false
   button: true
   focus_shortcut_key: 'k'
-
+page:
+  nav_enabled: false
 # Collections configuration
 collections:
   generic:
