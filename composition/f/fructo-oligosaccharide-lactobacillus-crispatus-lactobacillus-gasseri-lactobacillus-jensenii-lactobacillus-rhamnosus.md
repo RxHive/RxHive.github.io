@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Fructo Oligosaccharide + Lactobacillus crispatus + Lactobacillus gasseri + Lactobacillus jensenii + Lactobacillus rhamnosus
 ---

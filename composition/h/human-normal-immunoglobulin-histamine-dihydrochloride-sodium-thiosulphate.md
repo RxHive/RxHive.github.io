@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Human Normal Immunoglobulin + Histamine Dihydrochloride + Sodium Thiosulphate
 ---

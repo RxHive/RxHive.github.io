@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Freeze-dried Live Attenuated Hepatitis A Vaccine
 ---
