@@ -49,6 +49,16 @@ just_the_docs:
   gh_edit_branch: "main"
   gh_edit_view_mode: "tree"
 
+compress_html:
+  endings: "all" # Collapse all specified HTML endings
+  startings: "html head body div" # Customize collapsing for specific tags
+  comments: "all" # Remove all comments
+  clippings: "all" # Trim all specified tags
+  blanklines: true # Collapse blank lines
+  profile: true # Enable profiling
+  ignore:
+    envs: "none" # Ignore in specific environments (e.g., development)
+
 # Default layout and options for generic collection
 defaults:
   - scope:
