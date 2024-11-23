@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Chromium Picolinate + D-Chiro Inositol + Myo-Inositol + Vitamin D
 ---

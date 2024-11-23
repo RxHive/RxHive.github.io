@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alpha Lipoic Acid + Pregabalin + Benfotiamine + Pyridoxal- + L-Methyl Folate Calcium + Methylcobalamin
 ---

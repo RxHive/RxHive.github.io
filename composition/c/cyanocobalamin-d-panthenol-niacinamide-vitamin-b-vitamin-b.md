@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Cyanocobalamin + D-Panthenol + Niacinamide + Vitamin B + Vitamin B
 ---

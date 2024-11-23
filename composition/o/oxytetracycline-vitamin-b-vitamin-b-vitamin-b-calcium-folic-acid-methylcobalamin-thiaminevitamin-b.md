@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Oxytetracycline + Vitamin B + Vitamin B + Vitamin B + Calcium + Folic Acid + Methylcobalamin + ThiamineVitamin B
 ---

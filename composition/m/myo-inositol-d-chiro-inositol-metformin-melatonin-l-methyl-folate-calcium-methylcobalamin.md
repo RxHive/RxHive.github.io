@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Myo-Inositol + D-Chiro Inositol + Metformin + Melatonin + L-Methyl Folate Calcium + Methylcobalamin
 ---

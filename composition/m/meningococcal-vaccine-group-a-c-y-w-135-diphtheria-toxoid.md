@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Meningococcal Vaccine Group A + C + Y & W-135 + Diphtheria Toxoid
 ---

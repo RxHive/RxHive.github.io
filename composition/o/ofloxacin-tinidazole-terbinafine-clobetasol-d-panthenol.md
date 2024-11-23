@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Ofloxacin + Tinidazole + Terbinafine + Clobetasol + D-Panthenol
 ---

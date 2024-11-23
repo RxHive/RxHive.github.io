@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Biotin + Acetylcysteine + Calcium Pantothenate + Selenium + Copper + Zinc Oxide
 ---

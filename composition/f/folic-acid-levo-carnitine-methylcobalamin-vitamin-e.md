@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Folic Acid + Levo-carnitine + Methylcobalamin + Vitamin E
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Menthol + Chlorpheniramine Maleate + Dextromethorphan Hydrobromide + Phenylpropanolamine
 ---

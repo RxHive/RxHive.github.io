@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Potassium Iodide + Sodium Chloride + Calcium Chloride
 ---

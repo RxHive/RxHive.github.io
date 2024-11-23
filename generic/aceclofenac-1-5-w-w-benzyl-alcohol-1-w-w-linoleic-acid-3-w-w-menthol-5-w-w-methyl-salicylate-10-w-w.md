@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aceclofenac 1.5% w/w + Benzyl Alcohol 1% w/w + Linoleic Acid 3% w/w + Menthol 5% w/w + Methyl Salicylate 10% w/w
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Methylcobalamin + Folic Acid + Pyridoxine Hydrochloride + Vitamin D + Niacinamide + Zinc Oxide + Copper Sulphate + Vitamin B
 ---

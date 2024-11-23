@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alpha Lipoic Acid + Chromium Picolinate + Folic Acid + Methylcobalamin + Myo-Inositol + Selenium dioxide + Zinc Sulfate
 ---

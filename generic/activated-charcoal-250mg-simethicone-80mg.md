@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Activated Charcoal 250mg + Simethicone 80mg
 ---

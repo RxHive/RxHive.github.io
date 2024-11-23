@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Biotin + Copper + Cyanocobalamin + Folic Acid + Iodine + Lycopene + Magnesium + Niacinamide + Pyridoxine Hydrochloride + Selenium + Zinc
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Coenzyme Q + Vitamin B + Levo-carnitine + Resveratrol + Benfotiamine
 ---

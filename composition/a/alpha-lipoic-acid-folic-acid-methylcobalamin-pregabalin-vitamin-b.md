@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alpha Lipoic Acid + Folic Acid + Methylcobalamin + Pregabalin + Vitamin B
 ---

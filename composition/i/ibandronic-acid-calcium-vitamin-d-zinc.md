@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Ibandronic Acid + Calcium + Vitamin D + Zinc
 ---

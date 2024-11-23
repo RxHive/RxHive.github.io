@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Poliomyelitis Virus Type + Poliomyelitis Virus Type + Poliomyelitis virus type
 ---

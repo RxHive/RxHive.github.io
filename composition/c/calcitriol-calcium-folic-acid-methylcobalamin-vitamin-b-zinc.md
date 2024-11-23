@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcitriol + Calcium + Folic Acid + Methylcobalamin + Vitamin B + Zinc
 ---

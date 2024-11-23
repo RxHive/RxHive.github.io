@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Lactic acid bacillus + Saccharomyces boulardii + Zinc
 ---

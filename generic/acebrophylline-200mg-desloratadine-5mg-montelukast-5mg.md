@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Acebrophylline 200mg + Desloratadine 5mg + Montelukast 5mg
 ---

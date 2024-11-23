@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diacerein + Glucosamine Sulfate Potassium Chloride + Methyl Sulfonyl Methane
 ---

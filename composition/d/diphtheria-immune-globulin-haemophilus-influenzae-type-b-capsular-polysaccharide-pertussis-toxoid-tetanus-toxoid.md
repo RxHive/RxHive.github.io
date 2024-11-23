@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Immune Globulin + Haemophilus Influenzae Type B Capsular Polysaccharide + Pertussis Toxoid + Tetanus Toxoid
 ---

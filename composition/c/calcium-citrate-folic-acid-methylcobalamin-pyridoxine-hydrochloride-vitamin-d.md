@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcium citrate + Folic Acid + Methylcobalamin + Pyridoxine Hydrochloride + Vitamin D
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alum + Camphor + Iodine + Menthol + Potassium Iodide + Tannic Acid + Thymol
 ---

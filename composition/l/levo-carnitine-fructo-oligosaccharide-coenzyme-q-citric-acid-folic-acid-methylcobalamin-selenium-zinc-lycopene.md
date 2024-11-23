@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Levo-carnitine + Fructo Oligosaccharide + Coenzyme Q + Citric Acid + Folic Acid + Methylcobalamin + Selenium + Zinc + Lycopene
 ---

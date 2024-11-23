@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Adrenaline 1mg + Sodium Metabisulphite 0.1% w/v
 ---

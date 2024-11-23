@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Albendazole 300mg + Pyrantel Pamoate 100mg
 ---

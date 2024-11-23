@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Adenosylcobalamin 100mcg + Carbonyl Iron 100mg + Folic Acid 1500mcg + Zinc Sulfate 61.5mg
 ---

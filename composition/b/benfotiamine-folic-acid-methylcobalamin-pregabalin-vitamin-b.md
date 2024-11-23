@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Benfotiamine + Folic Acid + Methylcobalamin + Pregabalin + Vitamin B
 ---

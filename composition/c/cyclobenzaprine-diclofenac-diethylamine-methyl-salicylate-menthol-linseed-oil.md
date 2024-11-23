@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Cyclobenzaprine + Diclofenac diethylamine + Methyl Salicylate + Menthol + Linseed Oil
 ---

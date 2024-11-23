@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Boric Acid + Chlorbutol + Chlorpheniramine Maleate + Sodium Chloride + Sulphacetamide
 ---

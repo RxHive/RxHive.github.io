@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Coenzyme Q + Docosahexanoic Acid + Eicosapentaenoic Acid + Folic Acid + L-Arginine + Levo-carnitine + Lycopene + Methylcobalamin + Selenium + Zinc Gluconate
 ---

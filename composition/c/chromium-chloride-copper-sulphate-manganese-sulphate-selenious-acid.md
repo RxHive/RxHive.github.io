@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Chromium Chloride + Copper Sulphate + Manganese Sulphate + Selenious acid
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aluminium Hydroxide + Milk Of Magnesia + Oxetacaine + Simethicone + Sorbitol
 ---

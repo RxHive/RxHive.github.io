@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Toxoid + Haemophilus Type B Conjugate Vaccine + Pertussis Toxoid + Tetanus Toxoid
 ---

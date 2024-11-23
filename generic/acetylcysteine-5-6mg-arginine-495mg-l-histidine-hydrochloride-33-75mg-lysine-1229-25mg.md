@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Acetylcysteine 5.6mg + Arginine 495mg + L-Histidine Hydrochloride 33.75mg + Lysine 1229.25mg
 ---

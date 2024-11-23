@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Hepatitis B Vaccine rDNA + Aluminium Hydroxide + Thiomersal
 ---

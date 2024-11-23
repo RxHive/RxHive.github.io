@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Bacillus mesentericus TO-A JPC + Clostridium butryricum TO-A + Lactic acid bacillus + Streptococcus faecalis T-
 ---

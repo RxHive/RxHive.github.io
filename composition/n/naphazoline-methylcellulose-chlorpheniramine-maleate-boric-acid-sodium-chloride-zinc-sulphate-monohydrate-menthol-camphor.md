@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Naphazoline + Methylcellulose + Chlorpheniramine Maleate + Boric Acid + Sodium Chloride + Zinc Sulphate Monohydrate + Menthol + Camphor
 ---

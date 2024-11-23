@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Toxoid + Haemophilus Influenzae Type B Capsular Polysaccharide + Pertussis Toxoid + Tetanus Toxoid + Inactivated Polio Vaccine
 ---

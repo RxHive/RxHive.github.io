@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Ibandronic Acid + Calcium Carbonate + Calcitriol + Vitamin MK + Zinc
 ---

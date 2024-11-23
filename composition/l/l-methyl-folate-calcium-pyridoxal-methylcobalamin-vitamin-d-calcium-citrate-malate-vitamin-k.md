@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: L-Methyl Folate Calcium + Pyridoxal- + Methylcobalamin + Vitamin D + Calcium Citrate Malate + Vitamin K
 ---

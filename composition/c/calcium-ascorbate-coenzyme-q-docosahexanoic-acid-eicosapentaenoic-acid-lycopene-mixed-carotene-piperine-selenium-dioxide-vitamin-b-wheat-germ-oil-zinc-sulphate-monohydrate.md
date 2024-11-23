@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcium ascorbate + Coenzyme Q + Docosahexanoic Acid + Eicosapentaenoic Acid + Lycopene + Mixed Carotene + Piperine + Selenium dioxide + Vitamin B + Wheat germ oil + Zinc Sulphate Monohydrate
 ---

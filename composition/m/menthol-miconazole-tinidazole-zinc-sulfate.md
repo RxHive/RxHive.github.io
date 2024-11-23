@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Menthol + Miconazole + Tinidazole + Zinc Sulfate
 ---

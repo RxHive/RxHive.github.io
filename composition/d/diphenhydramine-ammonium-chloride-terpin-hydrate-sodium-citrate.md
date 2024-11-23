@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphenhydramine + Ammonium Chloride + Terpin Hydrate + Sodium Citrate
 ---

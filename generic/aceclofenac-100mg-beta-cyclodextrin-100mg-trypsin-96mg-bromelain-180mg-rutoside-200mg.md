@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aceclofenac 100mg + Beta-Cyclodextrin 100mg + Trypsin 96mg + Bromelain 180mg + Rutoside 200mg
 ---

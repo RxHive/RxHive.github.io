@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Naphazoline + Chlorpheniramine Maleate + Phenylephrine + Hydroxypropylmethylcellulose + Boric Acid + Menthol + Camphor
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcium Carbonate + Magnesium Hydroxide + Zinc Sulphate Monohydrate + Vitamin D
 ---

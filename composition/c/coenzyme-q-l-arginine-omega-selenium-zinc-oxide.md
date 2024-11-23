@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Coenzyme Q + L-Arginine + Omega- + Selenium + Zinc Oxide
 ---

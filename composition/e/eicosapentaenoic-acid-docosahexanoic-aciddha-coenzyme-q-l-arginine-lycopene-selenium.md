@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Eicosapentaenoic Acid + Docosahexanoic acidDHA + Coenzyme Q + L-Arginine + Lycopene + Selenium
 ---

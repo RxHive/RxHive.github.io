@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Methylcobalamin + Alpha Lipoic Acid + Pyridoxine Hydrochloride + Vitamin D + Folic Acid + Thiamine mononitrate
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Meningococcal Group A & C Polysaccharide Vaccine + Lactose
 ---

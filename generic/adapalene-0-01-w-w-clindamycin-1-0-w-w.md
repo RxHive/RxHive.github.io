@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Adapalene 0.01% w/w + Clindamycin 1.0% w/w
 ---

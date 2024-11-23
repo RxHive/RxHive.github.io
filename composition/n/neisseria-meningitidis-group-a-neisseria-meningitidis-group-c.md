@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Neisseria Meningitidis Group A + Neisseria Meningitidis Group C
 ---

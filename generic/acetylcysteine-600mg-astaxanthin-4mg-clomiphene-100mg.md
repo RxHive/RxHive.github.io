@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Acetylcysteine 600mg + Astaxanthin 4mg + Clomiphene 100mg
 ---

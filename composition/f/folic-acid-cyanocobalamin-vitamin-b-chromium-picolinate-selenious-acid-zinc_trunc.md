@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Folic Acid + Cyanocobalamin + Vitamin B + Chromium Picolinate + Selenious acid + Zinc Sulfate + Manganese Sulphate + Light Magnesium Oxide + Lycopene + Eicosapentaenoic Acid + Docosahexanoic Acid + Alpha Lipoic Acid
 ---

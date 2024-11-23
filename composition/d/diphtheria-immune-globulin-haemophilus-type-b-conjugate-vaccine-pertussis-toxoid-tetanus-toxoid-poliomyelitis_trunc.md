@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Immune Globulin + Haemophilus Type B Conjugate Vaccine + Pertussis Toxoid + Tetanus Toxoid + Poliomyelitis Virus Type + Poliomyelitis Virus Type + Poliomyelitis virus type
 ---

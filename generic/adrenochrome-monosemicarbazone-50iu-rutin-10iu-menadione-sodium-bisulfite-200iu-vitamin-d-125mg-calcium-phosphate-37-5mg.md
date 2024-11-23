@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Adrenochrome Monosemicarbazone 50IU + Rutin 10IU + Menadione Sodium Bisulfite 200IU + Vitamin D 125mg + Calcium Phosphate 37.5mg
 ---

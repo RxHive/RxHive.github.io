@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Ofloxacin + Hydroxypropylmethylcellulose + Sodium Phosphate + Phenyl Mercuric Nitrate
 ---

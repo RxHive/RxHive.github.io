@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alpha-galactosidase + Lipase + Alpha-amylase + Protease + Lactase
 ---

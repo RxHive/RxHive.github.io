@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Toxoid + Tetanus Toxoid + Pertussis Toxoid + Hepatitis B Vaccine rDNA + Aluminium Hydroxide
 ---

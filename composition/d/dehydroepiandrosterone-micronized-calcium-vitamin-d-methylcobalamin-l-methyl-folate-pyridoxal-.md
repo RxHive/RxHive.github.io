@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Dehydroepiandrosterone Micronized + Calcium + Vitamin D + Methylcobalamin + L-Methyl Folate + Pyridoxal-
 ---

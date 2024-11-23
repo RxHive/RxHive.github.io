@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Dibasic sodium phosphate + Monobasic sodium phosphate + Calcium Chloride + Sodium Chloride
 ---

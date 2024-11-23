@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Boron + Calcitriol + Calcium + Copper + Magnesium + Selenium + Zinc
 ---

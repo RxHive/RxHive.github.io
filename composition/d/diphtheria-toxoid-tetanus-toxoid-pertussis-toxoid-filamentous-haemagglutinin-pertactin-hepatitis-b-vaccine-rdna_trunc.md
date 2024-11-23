@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diphtheria Toxoid + Tetanus Toxoid + Pertussis Toxoid + Filamentous Haemagglutinin + Pertactin + Hepatitis B Vaccine rDNA + Poliomyelitis Virus Type + Poliomyelitis Virus Type + Poliomyelitis virus type + Haemophilus Influenzae Type B Capsular Polysaccharide
 ---

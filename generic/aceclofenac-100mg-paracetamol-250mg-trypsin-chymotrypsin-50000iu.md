@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aceclofenac 100mg + Paracetamol 250mg + Trypsin Chymotrypsin 50000IU
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Adapalene 0.1% w/v + Benzoyl Peroxide 2.5% w/v
 ---

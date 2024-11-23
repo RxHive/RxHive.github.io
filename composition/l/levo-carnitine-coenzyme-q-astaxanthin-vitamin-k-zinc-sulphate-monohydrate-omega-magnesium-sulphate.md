@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Levo-carnitine + Coenzyme Q + Astaxanthin + Vitamin K + Zinc Sulphate Monohydrate + Omega- + Magnesium Sulphate
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Boron + Calcitriol + Calcium Carbonate + Magnesium Oxide + Methylcobalamin + Vitamin K + Zinc Oxide
 ---

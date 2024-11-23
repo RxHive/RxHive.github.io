@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Omega- + Alpha Lipoic Acid + Methylcobalamin + Chromium Picolinate + Selenium dioxide
 ---

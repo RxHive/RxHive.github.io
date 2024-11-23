@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcium citrate + Vitamin D + Methylcobalamin + Zinc Sulphate Monohydrate + Folic Acid
 ---

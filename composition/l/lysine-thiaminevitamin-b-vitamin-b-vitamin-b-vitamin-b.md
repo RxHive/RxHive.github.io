@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Lysine + ThiamineVitamin B + Vitamin B + Vitamin B + Vitamin B
 ---

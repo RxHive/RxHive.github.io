@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Methylcobalamin + Alpha Lipoic Acid + Folic Acid + Inositol + Chromium polynicotinate + Selenomethionine + Zinc monomethionine
 ---

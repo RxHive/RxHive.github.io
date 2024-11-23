@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aluminium Phosphate + Haemophilus Influenzae Type B Capsular Polysaccharide + Thiomersal
 ---

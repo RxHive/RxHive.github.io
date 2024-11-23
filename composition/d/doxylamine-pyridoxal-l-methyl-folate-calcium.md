@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Doxylamine + Pyridoxal- + L-Methyl Folate Calcium
 ---

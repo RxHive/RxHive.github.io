@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Ferrous Ascorbate + Folic Acid + Zinc Sulphate Monohydrate
 ---

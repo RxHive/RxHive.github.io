@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Naphazoline + Methylcellulose + Boric Acid + Zinc Sulfate + Chlorpheniramine Maleate
 ---

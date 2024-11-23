@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Diclofenac + Lidocaine + Menthol + Methyl Salicylate + Linseed Oil + Tramadol + Benzyl Alcohol
 ---

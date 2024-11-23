@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Methylcobalamin + Folic Acid + Vitamin B + Vitamin D + Niacinamide + Zinc Oxide + Copper Sulphate + Lycopene + Vitamin B
 ---

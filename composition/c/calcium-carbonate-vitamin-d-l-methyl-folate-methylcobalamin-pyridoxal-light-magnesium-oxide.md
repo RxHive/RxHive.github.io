@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcium Carbonate + Vitamin D + L-Methyl Folate + Methylcobalamin + Pyridoxal- + Light Magnesium Oxide
 ---

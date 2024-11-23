@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: D-Panthenol + Nicotinamide + Pyridoxine Hydrochloride + ThiamineVitamin B + Tocoferol + Vitamin A + Vitamin B + Vitamin C + Vitamin D
 ---

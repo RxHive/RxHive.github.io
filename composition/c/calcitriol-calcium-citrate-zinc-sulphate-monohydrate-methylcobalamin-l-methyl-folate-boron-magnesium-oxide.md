@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Calcitriol + Calcium citrate + Zinc Sulphate Monohydrate + Methylcobalamin + L-Methyl Folate + Boron + Magnesium Oxide
 ---

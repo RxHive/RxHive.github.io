@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alfuzosin 10mg + Solifenacin 5mg
 ---

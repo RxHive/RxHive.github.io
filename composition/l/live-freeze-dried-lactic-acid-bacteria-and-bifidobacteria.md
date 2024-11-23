@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Live Freeze Dried Lactic Acid Bacteria and Bifidobacteria
 ---

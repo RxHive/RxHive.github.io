@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Aceclofenac 1.5% + Capsaicin 3% + Methyl Salicylate 10% + Menthol 5%
 ---

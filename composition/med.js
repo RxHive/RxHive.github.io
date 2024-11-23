@@ -83,7 +83,7 @@ FAQs:
 
             // Create the YAML front matter and header
             const yamlFrontMatter = `---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: ${genericName}
 ---

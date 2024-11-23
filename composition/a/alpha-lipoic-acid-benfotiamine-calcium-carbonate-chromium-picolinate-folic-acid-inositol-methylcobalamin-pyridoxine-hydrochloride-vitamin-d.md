@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Alpha Lipoic Acid + Benfotiamine + Calcium Carbonate + Chromium Picolinate + Folic Acid + Inositol + Methylcobalamin + Pyridoxine Hydrochloride + Vitamin D
 ---

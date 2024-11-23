@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Cetirizine + Dextromethorphan Hydrobromide + Menthol + Ammonium Chloride + Zinc Gluconate
 ---

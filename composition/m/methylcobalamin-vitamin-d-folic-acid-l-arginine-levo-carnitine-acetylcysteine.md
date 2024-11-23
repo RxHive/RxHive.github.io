@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal-medicine
 nav_exclude: true
 title: Methylcobalamin + Vitamin D + Folic Acid + L-Arginine + Levo-carnitine + Acetylcysteine
 ---
