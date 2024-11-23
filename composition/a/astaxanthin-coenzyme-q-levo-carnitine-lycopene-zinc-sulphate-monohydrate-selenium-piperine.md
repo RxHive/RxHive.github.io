@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Astaxanthin + Coenzyme Q + Levo-carnitine + Lycopene + Zinc Sulphate Monohydrate + Selenium + Piperine
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Ferrous Ascorbate + Vitamin D + Folic Acid + Vitamin B + Pyridoxine Hydrochloride
 ---

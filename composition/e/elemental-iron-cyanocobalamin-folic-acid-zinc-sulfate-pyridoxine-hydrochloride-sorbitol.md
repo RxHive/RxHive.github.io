@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Elemental Iron + Cyanocobalamin + Folic Acid + Zinc Sulfate + Pyridoxine Hydrochloride + Sorbitol
 ---

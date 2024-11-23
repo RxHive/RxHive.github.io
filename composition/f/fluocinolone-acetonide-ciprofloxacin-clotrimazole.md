@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Fluocinolone acetonide + Ciprofloxacin + Clotrimazole
 ---

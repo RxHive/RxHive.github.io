@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Beta Carotene + Calcium ascorbate + Coenzyme Q + Lycopene + Omega- + Selenium dioxide + Vitamin B + Wheat germ oil + Zinc Sulphate Monohydrate
 ---

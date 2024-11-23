@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Acetylcysteine 600mg + Pyridoxamine dihydrochloride 50mg
 ---

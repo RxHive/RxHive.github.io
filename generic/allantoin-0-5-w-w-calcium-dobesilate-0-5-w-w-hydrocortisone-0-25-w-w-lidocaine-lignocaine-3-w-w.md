@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Allantoin  0.5% w/w + Calcium Dobesilate  0.5% w/w + Hydrocortisone  0.25% w/w + Lidocaine/Lignocaine 3% w/w
 ---

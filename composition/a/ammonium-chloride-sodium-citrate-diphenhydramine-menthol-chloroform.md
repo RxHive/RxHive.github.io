@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Ammonium Chloride + Sodium Citrate + Diphenhydramine + Menthol + Chloroform
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Dibasic Calcium Phosphate + Magnesium Orotate
 ---

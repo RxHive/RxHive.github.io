@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Chondroitin + Collagen Peptide + Sodium Hyaluronate + Vitamin C
 ---

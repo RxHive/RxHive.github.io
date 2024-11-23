@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 50mg + Paracetamol 325mg + Trypsin Chymotrypsin 50000AU
 ---

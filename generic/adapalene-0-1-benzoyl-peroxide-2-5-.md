@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Adapalene 0.1% + Benzoyl Peroxide 2.5%
 ---

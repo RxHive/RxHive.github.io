@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 100mg + Trypsin Chymotrypsin 150000IU
 ---

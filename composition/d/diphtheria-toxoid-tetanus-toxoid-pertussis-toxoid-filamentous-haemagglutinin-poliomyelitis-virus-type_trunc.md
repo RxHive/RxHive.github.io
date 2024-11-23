@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Diphtheria Toxoid + Tetanus Toxoid + Pertussis Toxoid + Filamentous Haemagglutinin + Poliomyelitis Virus Type + Poliomyelitis Virus Type + Poliomyelitis virus type
 ---

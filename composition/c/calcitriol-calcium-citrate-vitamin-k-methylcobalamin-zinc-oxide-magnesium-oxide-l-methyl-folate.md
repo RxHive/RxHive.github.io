@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcitriol + Calcium citrate + Vitamin K + Methylcobalamin + Zinc Oxide + Magnesium Oxide + L-Methyl Folate
 ---

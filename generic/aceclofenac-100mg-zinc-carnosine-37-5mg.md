@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 100mg + Zinc Carnosine 37.5mg
 ---

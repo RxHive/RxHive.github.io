@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alginic Acid 1000mg + Potassium Hydrogen Carbonate 200mg
 ---

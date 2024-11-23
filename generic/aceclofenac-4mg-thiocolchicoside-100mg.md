@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 4mg + Thiocolchicoside 100mg
 ---

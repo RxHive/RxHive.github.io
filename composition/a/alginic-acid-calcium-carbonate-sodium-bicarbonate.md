@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alginic Acid + Calcium Carbonate + Sodium Bicarbonate
 ---

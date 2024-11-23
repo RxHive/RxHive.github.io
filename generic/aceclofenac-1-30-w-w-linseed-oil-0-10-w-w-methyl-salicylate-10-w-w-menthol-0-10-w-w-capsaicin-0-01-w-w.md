@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 1.30% w/w + Linseed Oil 0.10% w/w + Methyl Salicylate 10% w/w + Menthol 0.10% w/w + Capsaicin 0.01% w/w
 ---

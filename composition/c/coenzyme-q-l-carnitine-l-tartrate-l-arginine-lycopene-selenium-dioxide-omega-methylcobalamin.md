@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Coenzyme Q + L-Carnitine L-Tartrate + L-Arginine + Lycopene + Selenium dioxide + Omega- + Methylcobalamin
 ---

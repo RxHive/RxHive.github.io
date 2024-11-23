@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alendronic Acid 70mg + Calcium 500mg + Vitamin D3 250IU
 ---

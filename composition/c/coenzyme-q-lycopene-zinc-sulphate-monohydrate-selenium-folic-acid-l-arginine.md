@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Coenzyme Q + Lycopene + Zinc Sulphate Monohydrate + Selenium + Folic Acid + L-Arginine
 ---

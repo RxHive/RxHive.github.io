@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alginic Acid 250mg/5ml + Calcium Carbonate 80mg/5ml + Sodium Bicarbonate 133.5mg/5ml
 ---

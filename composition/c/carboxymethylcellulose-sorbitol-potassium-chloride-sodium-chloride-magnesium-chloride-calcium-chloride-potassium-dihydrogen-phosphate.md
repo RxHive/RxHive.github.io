@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Carboxymethylcellulose + Sorbitol + Potassium Chloride + Sodium Chloride + Magnesium Chloride + Calcium Chloride + Potassium dihydrogen phosphate
 ---

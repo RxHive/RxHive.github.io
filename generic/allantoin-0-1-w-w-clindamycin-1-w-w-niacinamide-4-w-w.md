@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Allantoin 0.1% w/w + Clindamycin 1% w/w + Niacinamide 4% w/w
 ---

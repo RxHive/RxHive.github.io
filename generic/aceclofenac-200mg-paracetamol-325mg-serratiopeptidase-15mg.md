@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 200mg + Paracetamol 325mg + Serratiopeptidase 15mg
 ---

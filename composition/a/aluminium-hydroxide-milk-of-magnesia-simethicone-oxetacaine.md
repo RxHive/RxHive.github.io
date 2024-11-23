@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aluminium Hydroxide + Milk Of Magnesia + Simethicone + Oxetacaine
 ---

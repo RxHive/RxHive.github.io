@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Clioquinol Iodochlorhydroxyquin + Clobetasol + Dexpanthenol + Ketoconazole + Neomycin + Tolnaftate
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Cyanocobalamin + D-Panthenol + Lysine + Niacinamide + Pyridoxine Hydrochloride + ThiamineVitamin B + Vitamin B
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aliskiren 300mg + Hydrochlorothiazide 12.5mg
 ---

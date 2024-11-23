@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Docosahexanoic acidDHA + Eicosapentaenoic Acid + L-Methyl Folate + Methylcobalamin + Omega- + Pyridoxal-
 ---

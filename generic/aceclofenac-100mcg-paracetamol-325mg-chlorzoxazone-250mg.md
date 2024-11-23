@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 100mcg + Paracetamol 325mg + Chlorzoxazone 250mg
 ---

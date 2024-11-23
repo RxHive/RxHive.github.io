@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Betamethasone + Lacto bacillus Rhamnosus + Salicylic Acid + Sodium Lactate + Urea
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium + Folic Acid + Methylcobalamin + Vitamin B + Vitamin D
 ---

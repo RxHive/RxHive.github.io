@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Clostridium botulinum type A toxin-haemagglutinin complex
 ---

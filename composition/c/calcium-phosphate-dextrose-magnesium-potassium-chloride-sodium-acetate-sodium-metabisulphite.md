@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium Phosphate + Dextrose + Magnesium + Potassium Chloride + Sodium Acetate + Sodium Metabisulphite
 ---

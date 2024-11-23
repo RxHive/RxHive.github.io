@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Diphtheria Toxoid + Haemophilus Type B Conjugate Vaccine + Pertussis Toxoid + Tetanus Toxoid
 ---

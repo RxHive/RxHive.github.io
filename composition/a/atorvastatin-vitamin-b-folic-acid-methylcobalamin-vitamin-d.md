@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Atorvastatin + Vitamin B + Folic Acid + Methylcobalamin + Vitamin D
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Biotin + Folic Acid + Lysine + Methylcobalamin + Niacinamide + Vitamin D + Zinc
 ---

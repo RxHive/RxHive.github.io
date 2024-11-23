@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Cyanocobalamin + Ferrous Ascorbate + Folic Acid + Vitamin D
 ---

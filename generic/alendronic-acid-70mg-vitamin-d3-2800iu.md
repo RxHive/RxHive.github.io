@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alendronic Acid 70mg + Vitamin D3 2800IU
 ---

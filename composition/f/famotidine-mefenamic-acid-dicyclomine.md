@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Famotidine + Mefenamic Acid + Dicyclomine
 ---

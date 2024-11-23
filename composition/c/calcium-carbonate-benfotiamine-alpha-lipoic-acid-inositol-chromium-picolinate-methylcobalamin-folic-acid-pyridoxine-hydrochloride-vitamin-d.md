@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium Carbonate + Benfotiamine + Alpha Lipoic Acid + Inositol + Chromium Picolinate + Methylcobalamin + Folic Acid + Pyridoxine Hydrochloride + Vitamin D
 ---

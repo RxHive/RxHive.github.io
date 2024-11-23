@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Aceclofenac 100mg/5ml + Paracetamol 125mg/5ml
 ---

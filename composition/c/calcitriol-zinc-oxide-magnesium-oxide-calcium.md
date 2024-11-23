@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcitriol + Zinc Oxide + Magnesium Oxide + Calcium
 ---

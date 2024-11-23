@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Eicosapentaenoic Acid + Docosahexanoic acidDHA + Methylcobalamin + Calcitriol + Calcium Carbonate + Boron + Folic Acid
 ---

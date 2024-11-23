@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcitriol + Eicosapentaenoic Acid + Docosahexanoic acidDHA + Methylcobalamin + Folic Acid + Calcium
 ---

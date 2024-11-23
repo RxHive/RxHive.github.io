@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Boron + Calcitriol + Calcium Carbonate + Docosahexanoic Acid + Eicosapentaenoic Acid + Folic Acid + Magnesium + Methylcobalamin + Vitamin K + Zinc
 ---

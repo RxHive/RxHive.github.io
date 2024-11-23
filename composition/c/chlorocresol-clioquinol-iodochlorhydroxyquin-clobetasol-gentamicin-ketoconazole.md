@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Chlorocresol + Clioquinol Iodochlorhydroxyquin + Clobetasol + Gentamicin + Ketoconazole
 ---

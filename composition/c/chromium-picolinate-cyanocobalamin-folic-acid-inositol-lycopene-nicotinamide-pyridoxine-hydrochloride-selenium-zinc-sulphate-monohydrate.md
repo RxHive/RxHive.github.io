@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Chromium Picolinate + Cyanocobalamin + Folic Acid + Inositol + Lycopene + Nicotinamide + Pyridoxine Hydrochloride + Selenium + Zinc Sulphate Monohydrate
 ---

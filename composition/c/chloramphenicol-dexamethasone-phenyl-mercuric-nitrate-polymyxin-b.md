@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Chloramphenicol + Dexamethasone + Phenyl Mercuric Nitrate + Polymyxin B
 ---

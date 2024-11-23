@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Folic Acid + Iron + Vitamin C + Vitamin B
 ---

@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: minimal
+layout: default
 ---
 
 # Open-Source Collaborative Medicine Database

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Diclofenac + Linseed Oil + Menthol + Methyl Salicylate
 ---

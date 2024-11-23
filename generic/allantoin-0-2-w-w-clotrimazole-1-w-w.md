@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Allantoin 0.2% w/w + Clotrimazole 1% w/w
 ---

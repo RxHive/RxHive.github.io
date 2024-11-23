@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Adrenochrome Monosemicarbazone + Rutin + Menadione Sodium Bisulfite + Vitamin D + Calcium Phosphate
 ---

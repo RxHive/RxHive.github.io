@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Cyanocobalamin + Elemental Iron + Folic Acid + Lysine + Zinc
 ---

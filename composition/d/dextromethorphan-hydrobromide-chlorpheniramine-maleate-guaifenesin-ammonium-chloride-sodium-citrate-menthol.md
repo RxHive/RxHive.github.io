@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Dextromethorphan Hydrobromide + Chlorpheniramine Maleate + Guaifenesin + Ammonium Chloride + Sodium Citrate + Menthol
 ---

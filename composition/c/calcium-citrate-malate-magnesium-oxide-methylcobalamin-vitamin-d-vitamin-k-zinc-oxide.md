@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium Citrate Malate + Magnesium Oxide + Methylcobalamin + Vitamin D + Vitamin K + Zinc Oxide
 ---

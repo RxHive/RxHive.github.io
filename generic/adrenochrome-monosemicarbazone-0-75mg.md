@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Adrenochrome Monosemicarbazone 0.75mg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Bifidobacterium longum + Fructo Oligosaccharide + Lactobacillus Acidophilus + Streptococcus Thermophilus
 ---

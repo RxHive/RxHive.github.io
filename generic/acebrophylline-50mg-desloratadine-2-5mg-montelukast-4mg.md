@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Acebrophylline 50mg + Desloratadine 2.5mg + Montelukast 4mg
 ---

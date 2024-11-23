@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Clotrimazole + Choline Salicylate + Tannic Acid + Cetrimide
 ---

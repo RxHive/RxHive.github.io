@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Ethamsylate + Menadione + Citrus Bioflavonoid + Tribasic Calcium Phosphate
 ---

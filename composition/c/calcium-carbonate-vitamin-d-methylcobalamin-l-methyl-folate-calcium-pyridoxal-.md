@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium Carbonate + Vitamin D + Methylcobalamin + L-Methyl Folate Calcium + Pyridoxal-
 ---

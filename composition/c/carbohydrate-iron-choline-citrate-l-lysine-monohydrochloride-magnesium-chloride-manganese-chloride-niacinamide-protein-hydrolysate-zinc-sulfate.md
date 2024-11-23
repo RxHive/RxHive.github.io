@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Carbohydrate + Iron Choline Citrate + L-Lysine Monohydrochloride + Magnesium Chloride + Manganese Chloride + Niacinamide + Protein Hydrolysate + Zinc Sulfate
 ---

@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium citrate + L-Arginine + L-Lysine + Vitamin B + Zinc Sulphate Monohydrate
 ---

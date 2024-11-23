@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Beta Carotene + Black Grape Seed Extract + Lutein + Lycopene + Selenium dioxide + Zinc Sulfate
 ---

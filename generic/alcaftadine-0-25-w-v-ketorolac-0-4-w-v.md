@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alcaftadine 0.25% w/v + Ketorolac 0.4% w/v
 ---

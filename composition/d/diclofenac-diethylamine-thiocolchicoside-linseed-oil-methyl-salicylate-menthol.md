@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Diclofenac diethylamine + Thiocolchicoside + Linseed Oil + Methyl Salicylate + Menthol
 ---

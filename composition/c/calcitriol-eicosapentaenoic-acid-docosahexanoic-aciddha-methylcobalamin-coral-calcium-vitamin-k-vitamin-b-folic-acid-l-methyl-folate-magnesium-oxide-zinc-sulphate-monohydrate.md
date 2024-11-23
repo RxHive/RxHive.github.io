@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcitriol + Eicosapentaenoic Acid + Docosahexanoic acidDHA + Methylcobalamin + Coral calcium + Vitamin K + Vitamin B + Folic Acid + L-Methyl Folate + Magnesium Oxide + Zinc Sulphate Monohydrate
 ---

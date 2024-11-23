@@ -83,7 +83,7 @@ FAQs:
 
             // Create the YAML front matter and header
             const yamlFrontMatter = `---
-layout: minimal
+layout: default
 nav_exclude: true
 title: ${genericName}
 ---

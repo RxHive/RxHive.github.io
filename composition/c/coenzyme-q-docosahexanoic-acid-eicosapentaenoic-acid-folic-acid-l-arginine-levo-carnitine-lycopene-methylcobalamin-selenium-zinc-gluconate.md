@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Coenzyme Q + Docosahexanoic Acid + Eicosapentaenoic Acid + Folic Acid + L-Arginine + Levo-carnitine + Lycopene + Methylcobalamin + Selenium + Zinc Gluconate
 ---

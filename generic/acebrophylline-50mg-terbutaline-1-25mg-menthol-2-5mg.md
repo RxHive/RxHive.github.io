@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Acebrophylline 50mg + Terbutaline 1.25mg + Menthol 2.5mg
 ---

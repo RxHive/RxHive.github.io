@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Alpha Lipoic Acid + Benfotiamine + Chromium Picolinate + Folic Acid + Methylcobalamin + Myo-Inositol + Pyridoxine Hydrochloride
 ---

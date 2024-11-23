@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Coral calcium + Calcitriol + Methylcobalamin + Omega- + Vitamin K + Zinc Sulphate Monohydrate + L-Methyl Folate + Lycopene + Pyridoxal-
 ---

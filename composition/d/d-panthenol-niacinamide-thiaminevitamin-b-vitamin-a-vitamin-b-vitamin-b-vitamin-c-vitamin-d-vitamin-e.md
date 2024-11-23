@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: D-Panthenol + Niacinamide + ThiamineVitamin B + Vitamin A + Vitamin B + Vitamin B + Vitamin C + Vitamin D + Vitamin E
 ---

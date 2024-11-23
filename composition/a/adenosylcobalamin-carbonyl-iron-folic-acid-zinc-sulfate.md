@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Adenosylcobalamin + Carbonyl Iron + Folic Acid + Zinc Sulfate
 ---

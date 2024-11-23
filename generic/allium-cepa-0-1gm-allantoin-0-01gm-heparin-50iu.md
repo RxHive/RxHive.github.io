@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Allium Cepa 0.1gm + Allantoin 0.01gm + Heparin 50IU
 ---

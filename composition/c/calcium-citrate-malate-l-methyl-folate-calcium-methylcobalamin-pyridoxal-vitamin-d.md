@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 nav_exclude: true
 title: Calcium Citrate Malate + L-Methyl Folate Calcium + Methylcobalamin + Pyridoxal- + Vitamin D
 ---
