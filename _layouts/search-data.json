@@ -3,8 +3,7 @@ layout: null
 ---
 
 [
-{% assign pages = site.generic %}
-{% for page in pages %}
+{% for page in site.html_pages %}
   {
     "title": "{{ page.title | escape }}",
     "url": "{{ page.url | relative_url }}",
