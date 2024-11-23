@@ -66,3 +66,5 @@ sitemap:
   filename: sitemap.xml # Default is sitemap.xml
   exclude:
     - /404.html
+ga_tracking: G-JMBXT0N7K0
+ga_tracking_anonymize_ip: true 
