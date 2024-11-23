@@ -49,6 +49,7 @@ include:
   - composition
   - robots.txt
   - google46cc0abefa86d150.html
+  - BingSiteAuth.xml
 
 # Plugins
 plugins:
