@@ -14,7 +14,7 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: false
-  button: true
+  button: false
   focus_shortcut_key: 'k'
 page:
   nav_enabled: false
