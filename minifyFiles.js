@@ -46,11 +46,12 @@ const processFiles = (dir) => {
                                 const jsonData = JSON.parse(content);
                                 const processedData = Object.keys(jsonData).reduce((acc, key) => {
                                     const record = jsonData[key];
-                                    const usageMatch = record.content.match(/Usage:\s*(.*?)(?=\.\s*Dosage:|$)/s);
-                                    const usage = usageMatch ? usageMatch[1].trim() : ''; 
-                                    const truncatedUsage = usage.length > 600 
-                                        ? usage.substring(0, 500) + '...' 
+                                    const parts = record.split("Usage");
+                                    const usage = parts.length > 1 ? parts[1].split("###")[0] : '';
+                                    const truncatedUsage = usage.length > 200 
+                                        ? usage.substring(0, 100) + '...' 
                                         : usage;
+
                                     acc[key] = {
                                         ...record,
                                         content: truncatedUsage,
