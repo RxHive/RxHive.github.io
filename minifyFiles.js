@@ -46,18 +46,31 @@ const processFiles = (dir) => {
                                 const jsonData = JSON.parse(content);
                                 const processedData = Object.keys(jsonData).reduce((acc, key) => {
                                     const record = jsonData[key];
-                                    const usageMatch = record.content.match(/Usage:\s*(.*?)(?=\.\s*Dosage:|$)/s);
-                                    const usage = usageMatch ? usageMatch[1].trim() : ''; 
-                                    const truncatedUsage = usage.length > 600 
-                                        ? usage.substring(0, 500) + '...' 
-                                        : usage;
+                                    let truncatedUsage = '';
+                                    if (typeof record.content === 'string') {
+                                        const parts = record.content.split("Usage . ");
+                                        var contentInJSON = "";
+                                        if (parts.length > 1) {
+                                            contentInJSON = parts[1].trim();
+                                        } else {
+                                            contentInJSON = record.content;
+                                        }
+
+                                        truncatedUsage = contentInJSON.length > 200
+                                            ? contentInJSON.substring(0, 150) + '...'
+                                            : contentInJSON;
+                                    } else {
+                                        console.warn(`Record for key "${key}" does not have a valid content string. Skipping.`);
+                                    }
+
                                     acc[key] = {
                                         ...record,
                                         content: truncatedUsage,
                                     };
                                     return acc;
                                 }, {});
-                                fs.writeFileSync(filePath, JSON.stringify(processedData, null, 2), 'utf8');
+                                console.log (filePath)
+                                fs.writeFileSync(filePath, JSON.stringify(processedData), 'utf8');
                             } catch (error) {
                                 console.error(`Error processing search-data.json: ${error}`);
                             }
@@ -66,8 +79,12 @@ const processFiles = (dir) => {
                             minifyJSON(filePath);
                         }
                         break;
+                    case '.html':
+                        console.log(`Minifying HTML: ${filePath}`);
+                        minifyHTML(filePath);
+                        break;
                     default:
-                        console.log(`Skipping: ${filePath}`);
+                    console.log(`Skipping: ${filePath}`);
                 }
             } catch (error) {
                 console.error(`Error processing file ${filePath}:`, error);

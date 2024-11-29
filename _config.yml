@@ -1,6 +1,6 @@
 title: RxHive
 theme: just-the-docs
-color_scheme: dark
+color_scheme: light
 url: https://rxhive.zynapte.com
 baseurl: "" # Set to "" for root deployment. Update if deploying to a subdirectory.
 default_image: "/assets/images/Zynapte.png"
@@ -39,15 +39,6 @@ just_the_docs:
       nav_exclude: true    # Exclude from main navigation
       nav_fold: true       # Fold collection pages in navigation (if included later)
       output: true
-footer_content: "Made with ❤️ at <a href='https://www.zynapte.com'>Zynapte</a> and the <a href='https://www.github.com'>GitHub Community</a>."
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/RxHive/RxHive.github.io"
-gh_edit_branch: "main"
-gh_edit_view_mode: "edit"
-
 compress_html:
   endings: "all" # Collapse all specified HTML endings
   startings: "html head body div" # Customize collapsing for specific tags
