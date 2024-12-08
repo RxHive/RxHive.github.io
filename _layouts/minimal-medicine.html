@@ -2,6 +2,11 @@
 layout: minimal
 image: "/assets/images/Zynapte.png"
 ---
+<div id="header-logo" class="text-center my-4">
+  <a href="{{ site.baseurl | default: '/' }}">
+      <img src="{{ '/assets/images/Zynapte.png' | relative_url }}" alt="{{ site.title }}" class="logo-image img-fluid logo-small">
+  </a>
+</div>
 
 {{ content }}
 <hr />
