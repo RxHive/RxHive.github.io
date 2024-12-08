@@ -30,14 +30,14 @@ const processFiles = (dir) => {
             const ext = path.extname(filePath).toLowerCase();
             try {
                 switch (ext) {
-                    // case '.css':
-                    //     console.log(`Minifying CSS: ${filePath}`);
-                    //     minifyCSS(filePath);
-                    //     break;
-                    // case '.js':
-                    //     console.log(`Minifying JS: ${filePath}`);
-                    //     minifyJS(filePath);
-                    //     break;
+                    case '.css':
+                        console.log(`Minifying CSS: ${filePath}`);
+                        minifyCSS(filePath);
+                        break;
+                    case '.js':
+                        console.log(`Minifying JS: ${filePath}`);
+                        minifyJS(filePath);
+                        break;
                     case '.json':
                         if (path.basename(filePath) === 'search-data.json') {
                             console.log(`Rewriting and minifying search-data.json: ${filePath}`);
@@ -79,8 +79,12 @@ const processFiles = (dir) => {
                             minifyJSON(filePath);
                         }
                         break;
+                    case '.html':
+                        console.log(`Minifying HTML: ${filePath}`);
+                        minifyHTML(filePath);
+                        break;
                     default:
-                    // console.log(`Skipping: ${filePath}`);
+                    console.log(`Skipping: ${filePath}`);
                 }
             } catch (error) {
                 console.error(`Error processing file ${filePath}:`, error);
