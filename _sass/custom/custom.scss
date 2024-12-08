@@ -1,4 +1,36 @@
 body {
-    color: #0d2849 !important;
-    background-color: #fff8f0 !important;
+    color: #0d2849;
+    background-color: #fff8f0;
+}
+
+a {
+    color: #164D8F;
+}
+
+.search-input {
+    border-radius: 5px;
+}
+
+@media (min-width: 50rem) {
+
+    .search-results,
+    .search-active .search-input-wrap,
+    .search-input,
+    .search-input-wrap {
+        width: 50rem !important;
+    }
+
+    .search-input-wrap {
+        max-width: 50rem !important;
+    }
+}
+
+.logo-small {
+    height: 80px;
+}
+footer {
+    text-align: center;
+}
+.main {
+    margin-top: 20px;
 }

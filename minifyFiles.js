@@ -30,14 +30,14 @@ const processFiles = (dir) => {
             const ext = path.extname(filePath).toLowerCase();
             try {
                 switch (ext) {
-                    case '.css':
-                        console.log(`Minifying CSS: ${filePath}`);
-                        minifyCSS(filePath);
-                        break;
-                    case '.js':
-                        console.log(`Minifying JS: ${filePath}`);
-                        minifyJS(filePath);
-                        break;
+                    // case '.css':
+                    //     console.log(`Minifying CSS: ${filePath}`);
+                    //     minifyCSS(filePath);
+                    //     break;
+                    // case '.js':
+                    //     console.log(`Minifying JS: ${filePath}`);
+                    //     minifyJS(filePath);
+                    //     break;
                     case '.json':
                         if (path.basename(filePath) === 'search-data.json') {
                             console.log(`Rewriting and minifying search-data.json: ${filePath}`);
@@ -46,11 +46,22 @@ const processFiles = (dir) => {
                                 const jsonData = JSON.parse(content);
                                 const processedData = Object.keys(jsonData).reduce((acc, key) => {
                                     const record = jsonData[key];
-                                    const parts = record.split("Usage");
-                                    const usage = parts.length > 1 ? parts[1].split("###")[0] : '';
-                                    const truncatedUsage = usage.length > 200 
-                                        ? usage.substring(0, 100) + '...' 
-                                        : usage;
+                                    let truncatedUsage = '';
+                                    if (typeof record.content === 'string') {
+                                        const parts = record.content.split("Usage . ");
+                                        var contentInJSON = "";
+                                        if (parts.length > 1) {
+                                            contentInJSON = parts[1].trim();
+                                        } else {
+                                            contentInJSON = record.content;
+                                        }
+
+                                        truncatedUsage = contentInJSON.length > 200
+                                            ? contentInJSON.substring(0, 150) + '...'
+                                            : contentInJSON;
+                                    } else {
+                                        console.warn(`Record for key "${key}" does not have a valid content string. Skipping.`);
+                                    }
 
                                     acc[key] = {
                                         ...record,
@@ -58,6 +69,7 @@ const processFiles = (dir) => {
                                     };
                                     return acc;
                                 }, {});
+                                console.log (processedData)
                                 fs.writeFileSync(filePath, JSON.stringify(processedData, null, 2), 'utf8');
                             } catch (error) {
                                 console.error(`Error processing search-data.json: ${error}`);
@@ -68,7 +80,7 @@ const processFiles = (dir) => {
                         }
                         break;
                     default:
-                        console.log(`Skipping: ${filePath}`);
+                    // console.log(`Skipping: ${filePath}`);
                 }
             } catch (error) {
                 console.error(`Error processing file ${filePath}:`, error);

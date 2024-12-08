@@ -1,23 +1,11 @@
 ---
 layout: minimal
+title: Home
 ---
 
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
-<body>
-    <div class="main" id="top">
-        <div class="main-content-wrap">
-            <div id="main-content" class="main-content">
-                <main>
-                    <div class="logo">
-                        <a href="{{ site.baseurl | default: '/' }}">
-                            <img src="{{ '/assets/images/Zynapte.png' | relative_url }}" style="height: 300px"
-                                alt="{{ site.title }}" class="logo-image">
-                        </a>
-                    </div>
-                </main>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<div id="header-logo" class="text-center my-4">
+    <a href="{{ site.baseurl | default: '/' }}">
+        <img src="{{ '/assets/images/Zynapte.png' | relative_url }}" alt="{{ site.title }}" class="logo-image img-fluid logo-small">
+    </a>
+</div>
+
