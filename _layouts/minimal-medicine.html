@@ -19,19 +19,24 @@ image: "/assets/images/Zynapte.png"
   Please note that the information here is not a substitute for professional medical guidance. Always seek the advice of
   your doctor or another qualified healthcare provider before making any changes to your medication or treatment plan.
 </p>
-
+<style>
+  body {
+    color: #0d2849 !important;
+    background-color: #fff8f0 !important;
+  }
+</style>
 <script>
   const searchInput = document.getElementById('search-input');
   function sendSearchKeyword(keyword) {
     gtag('event', 'search', {
-      'search_term': keyword 
+      'search_term': keyword
     });
   }
   searchInput.addEventListener('keydown', function (event) {
     const searchTerm = searchInput.value.trim();
     console.log(searchTerm)
     if (searchTerm.length > 4) {
-      sendSearchKeyword(searchTerm); 
+      sendSearchKeyword(searchTerm);
     }
   });
 </script>
