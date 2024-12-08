@@ -69,8 +69,8 @@ const processFiles = (dir) => {
                                     };
                                     return acc;
                                 }, {});
-                                console.log (processedData)
-                                fs.writeFileSync(filePath, JSON.stringify(processedData, null, 2), 'utf8');
+                                console.log (filePath)
+                                fs.writeFileSync(filePath, JSON.stringify(processedData), 'utf8');
                             } catch (error) {
                                 console.error(`Error processing search-data.json: ${error}`);
                             }
